@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Zaifu</h1>
-<h3 align="center">A passionate backend developer from Taiwan</h3>
+<h3 align="center">I’m currently a Backend Developer in Java from Taiwan</h3>
 
 
 
@@ -41,6 +41,13 @@ rockexe0000/rockexe0000 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 ref:
+
+
+
+https://shields.io/
+
+https://simpleicons.org/
+
 
 https://github.com/ashleymavericks/ashleymavericks
 
