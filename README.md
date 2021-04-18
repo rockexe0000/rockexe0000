@@ -33,6 +33,7 @@
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)                                           | -              |
 | [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=4FA1EF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/)                                             | -              |
 | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)            | -              |
+| [![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=777BB4&logo=php&logoColor=FFFFFF)](https://www.php.net)                                                      |[![PHP購物平台網站](https://img.shields.io/static/v1?label=PHP購物平台網站&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/rockexe0000/finpro) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
 
@@ -44,16 +45,15 @@
 
 <h2 align="left">Languages and Tools:</h3>
 <p align="left">
-    <h3 align="left">Languages</h3>
+    <h3 align="left">Back-end & Frameworks</h3>
     <a href="https://www.java.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     </a>
-    <br>
-    <h3 align="left">Frameworks</h3>
     <a href="https://spring.io/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
+    <h3 align="left">Front-end & Frameworks</h3>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     </a> 
@@ -69,7 +69,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <h3 align="left">Databases</h3>
     <a href="https://www.oracle.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
@@ -77,12 +77,12 @@
     <a href="https://www.mysql.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <h3 align="left">Servers</h3>
     <a href="http://tomcat.apache.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tomcat/tomcat-original-wordmark.svg" alt="tomcat" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <h3 align="left">Operating System</h3>
     <a href="https://www.microsoft.com/zh-tw/windows/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
@@ -90,24 +90,25 @@
     <a href="https://www.linux.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
+    <h3 align="left">Build Tool</h3>
     <a href="https://gradle.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-plain-wordmark.svg" alt="gradle" width="40" height="40"/>
     </a>
     <a href="https://www.docker.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <h3 align="left">Continuous Integration</h3>
     <a href="https://www.jenkins.io/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <h3 align="left">Version Control System</h3>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
-    <br>
+    <br><br>
     <a href="https://www.cprogramming.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
     </a> 
@@ -122,15 +123,33 @@
     <br>
     <br>
     <h3 align="left">interested in</h3>
+    <a href="https://nodejs.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
     <a href="https://angular.tw/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a> 
+    <a href="https://vuejs.org/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://aws.amazon.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a>
     <a href="https://expressjs.com" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-    </a> 
+    </a>
+    <a href="https://github.com/" target="_blank"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+    </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a> 
@@ -140,17 +159,8 @@
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
         <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/>
     </a> 
-    <a href="https://nodejs.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a> 
     <a href="https://www.photoshop.com/en" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    </a> 
-    <a href="https://www.python.org" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     </a> 
     <a href="https://unity.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
