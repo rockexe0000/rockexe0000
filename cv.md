@@ -6,46 +6,91 @@ icon: https://www.svgrepo.com/
 -->
 
 
-# 張再富
+# 張再富(zack)
 
- ## <img src="assets/address-card-svgrepo-com.svg" width="30px"> 聯絡方式
+ ## <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式
 
- - <img src="assets/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
- - <img src="assets/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
- - <img src="assets/phone-svgrepo-com.svg" width="18px"> 電話: 0912344343
-
-
-
- ## <img src="assets/info-circle-svgrepo-com.svg" width="30px"> 個人訊息 
-
- - 求職意向：JAVA工程師、DEVOPS工程師
- - 工作經驗：5 年
- - 期望薪資：100k
- - <img src="assets/github-brands.svg" width="18px"> Github: <a href="https://github.com/rockexe0000">https://github.com/rockexe0000</a>
-
-
-
-## <img src="assets/project-diagram-svgrepo-com.svg" width="30px"> 專案
+ - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
+ - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
+ - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> 電話: 0912344343
 
 
 
 
+ ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息 
+
+ - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：網路工程師、DEVOPS工程師、JAVA工程師
+ - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
+ - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
+ - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
+ - <img src="assets/icons/github-brands.svg" width="18px"> Github: <a href="https://github.com/rockexe0000">https://github.com/rockexe0000</a>
+
+
+
+
+## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷
+
+- 緯育股份有限公司，DEVOPS/網路工程師，2021/12~2021/04
+- 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
+- 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
+- 中華系統整合，JAVA工程師，2016/10~2018/10
+
+
+
+## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 學歷
+- 大同大學，資訊工程學系，2012/09~2016/09
+
+
+
+
+
+## <img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案
 
 
 
 - 緯育TibaMe
   - 專案名稱：
-    - 雲端作業系統建置與維護
+    - 雲端經典架構(WordPress)
+  - 專案內容：
+    - 在AWS/GCP各搭建一個Wordpress網站
+  - 工作內容：
+    - 本地端用 Docker Container 啟動 wordpress
+    - 配置 AWS VPC
+    - wordpress 移至 AWS VPC
+    - mysql 移至 AWS RDS
+    - 用nginx反向代理, 取得SSL憑證並對網站加密
+    - wordpress多媒體檔案移至 AWS S3
+    - 用SSM統一管理主機
+  - 專案系統環境：
+    - AWS, GCP
+  - 使用技術：
+    - IAM, VPC, SSL, mysql
+  - 使用工具：
+    - docker, wordpress, nginx, git, AWS SSM
+  - 相關連結
+    - https://github.com/rockexe0000/cfc104_project1
+
+
+- 緯育TibaMe
+  - 專案名稱：
+    - 私有雲建置
   - 專案內容：
     - 雲端作業系統建置與維護
   - 工作內容：
-    - 
+    - 安裝 Windows Server 2008 R2
+    - 建置 Active Directory Domain Service (AD DS) 與 DNS
+    - ESXi 安裝與設定
+    - 安裝 vCenter Server
+    - 建置 Shared Storage(共享儲存資源)
+    - vMotion/DRS線上遷移與實體資源負載平衡
+    - 設置 HA(High Availability),備援架設
+    - 設置 FT(Fault Tolerance),使系統在部分組件發生故障時仍能正常運作
   - 專案系統環境：
-    - 
+    - Windows, VMware
   - 使用技術：
-    - 
+    - TCP/IP
   - 使用工具：
-    - 
+    - VMware vSphere Client
 
 
 
@@ -57,18 +102,16 @@ icon: https://www.svgrepo.com/
   - 工作內容：
     - 使用 HAProxy (web0)建置 HTTP 的平衡負載、容錯機制
   - 專案系統環境：
-    - frontend webserver: 
-      - 192.168.211.200
-    - backend webserver: 
-      - 192.168.100.31
-      - 192.168.100.32
+    - frontend webserver
+    - backend webserver
     - OS:
       - ubuntu 20.04
   - 使用技術：
-    - load balance
+    - TCP/IP, load balance
   - 使用工具：
     - HAProxy, jmeter
-
+  - 相關連結
+    - https://github.com/rockexe0000/HAProxy
 
 
 
@@ -85,6 +128,8 @@ icon: https://www.svgrepo.com/
     - TCP/IP, TLS1.2, TLS1.3
   - 使用工具：
     - firefox, wireshark
+  - 相關連結
+    - https://github.com/rockexe0000/tls1.2-and-tls1.3-differ
 
 
 - 國泰金控
@@ -224,27 +269,12 @@ icon: https://www.svgrepo.com/
 
 
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作經歷
-
-- 緯育股份有限公司，DEVOPS/網路工程師，2021/12~2021/04
-- 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
-- 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
-- 中華系統整合，JAVA工程師，2016/10~2018/10
-
-
-
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 學歷
-- 大同大學，資訊工程學系，2012/09~2016/09
-
-
-## <img src="assets/tools-svgrepo-com.svg" width="30px"> 技能清單
+## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單
 
 - ★★★☆☆ Java
-- ★★☆☆☆ C++、Python
+- ★★★☆☆ Spring
+- ★☆☆☆☆ C++、Python
 - ★★★☆☆ MySQL
-- ★★★☆☆ Redis
-- ★★☆☆☆ Spring
-- ★☆☆☆☆ RabbitMQ、ZooKeeper
 - ★★☆☆☆ JavaScript
 
 
