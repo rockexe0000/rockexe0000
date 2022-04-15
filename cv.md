@@ -272,13 +272,7 @@ icon: https://www.svgrepo.com/
 
 ## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單
 
-- ★★★☆☆ Java
-- ★★★☆☆ Spring
-- ★☆☆☆☆ C++、Python
-- ★★★☆☆ MySQL
-- ★★☆☆☆ JavaScript
-
-
+<p>
     <h3 align="left">Back-end & Frameworks</h3>
     <a href="https://www.java.com/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
@@ -354,3 +348,16 @@ icon: https://www.svgrepo.com/
     </a> 
     <br>
     <br>
+
+</p>
+
+
+
+<!--
+- ★★★☆☆ Java
+- ★★★☆☆ Spring
+- ★☆☆☆☆ C++、Python
+- ★★★☆☆ MySQL
+- ★★☆☆☆ JavaScript
+-->
+
