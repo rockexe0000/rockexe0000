@@ -5,16 +5,17 @@ icon: https://www.svgrepo.com/
 
 -->
 
-<img src="assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="240px" style="border-radius: 50%;">
+<img src="./assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="240px">
 
 # 張再富(zack)
+
+人生三十年，與天地長久相較，如夢又似幻；一度得生者，豈有不滅者乎？
 
  ## <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式
 
  - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
  - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
  - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> 電話: 0912344343
-
 
 
 
@@ -29,23 +30,23 @@ icon: https://www.svgrepo.com/
 
 
 
-## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷
+## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
-- 緯育股份有限公司，DEVOPS/網路工程師，2021/12~2021/04
+- 緯育股份有限公司，實習生，2021/12~2022/04
 - 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
 - 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
 - 中華系統整合，JAVA工程師，2016/10~2018/10
 
 
 
-## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 學歷
+## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
 - 大同大學，資訊工程學系，2012/09~2016/09
 
 
 
 
 
-## <img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案
+## <img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience
 
 
 
@@ -53,13 +54,13 @@ icon: https://www.svgrepo.com/
   - 專案名稱：
     - 雲端經典架構(WordPress)
   - 專案內容：
-    - 在AWS/GCP各搭建一個Wordpress網站
+    - 在AWS/GCP搭建一個Wordpress網站
   - 工作內容：
     - 本地端用 Docker Container 啟動 wordpress
     - 配置 AWS VPC
     - wordpress 移至 AWS VPC
     - mysql 移至 AWS RDS
-    - 用nginx反向代理, 取得SSL憑證並對網站加密
+    - 用nginx反向代理，取得SSL憑證並對網站加密
     - wordpress多媒體檔案移至 AWS S3
     - 用SSM統一管理主機
   - 專案系統環境：
@@ -70,6 +71,7 @@ icon: https://www.svgrepo.com/
     - docker, wordpress, nginx, git, AWS SSM
   - 相關連結
     - https://github.com/rockexe0000/cfc104_project1
+    - https://zeroxzack.xyz/
 
 
 - 緯育TibaMe
@@ -84,8 +86,8 @@ icon: https://www.svgrepo.com/
     - 安裝 vCenter Server
     - 建置 Shared Storage(共享儲存資源)
     - vMotion/DRS線上遷移與實體資源負載平衡
-    - 設置 HA(High Availability),備援架設
-    - 設置 FT(Fault Tolerance),使系統在部分組件發生故障時仍能正常運作
+    - 設置 HA(High Availability)，備援架設
+    - 設置 FT(Fault Tolerance)，使系統在部分組件發生故障時仍能正常運作
   - 專案系統環境：
     - Windows, VMware
   - 使用技術：
@@ -122,7 +124,7 @@ icon: https://www.svgrepo.com/
   - 專案內容：
     - 說明HTTPS的TLS1.2、TLS1.3差異，並擷取封包說明之
   - 工作內容：
-    - HTTPS封包分析並做成報告
+    - 說明HTTPS的TLS1.2、TLS1.3差異，HTTPS封包分析並做成報告
   - 專案系統環境：
     - ubuntu
   - 使用技術：
@@ -270,7 +272,59 @@ icon: https://www.svgrepo.com/
 
 
 
-## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單
+## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills
+
+(1.略懂, 2.有自行學習或熟練度不足, 3.有實務經驗, 4.精通, 5.非常精通)
+
+### Back-end & Frameworks
+
+- Java ★★★★☆
+- Spring ★★★★☆
+
+### Front-end & Frameworks
+
+- JavaScript ★★☆☆☆
+- jquery ★★☆☆☆
+- bootstrap ★★☆☆☆
+- html ★★☆☆☆
+- css ★★☆☆☆
+
+
+### Databases
+
+- mysql ★★★☆☆
+- oracle ★★☆☆☆
+- informix ★★☆☆☆
+
+### Servers
+
+- nginx ★★☆☆☆
+- tomcat ★★☆☆☆
+
+### Operating System
+
+- windows ★★★☆☆
+- linux ★★★☆☆
+
+### Build Tool
+
+- gradle ★★★☆☆
+- docker ★★★☆☆
+
+### Continuous Integration
+
+- jenkins ★★☆☆☆
+
+### Version Control System
+
+- git ★★★☆☆
+- SVN ★★★☆☆
+
+
+-----
+
+
+<!--
 
 <p>
     <h3 align="left">Back-end & Frameworks</h3>
@@ -353,7 +407,7 @@ icon: https://www.svgrepo.com/
 
 
 
-<!--
+
 - ★★★☆☆ Java
 - ★★★☆☆ Spring
 - ★☆☆☆☆ C++、Python
