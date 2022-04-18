@@ -5,7 +5,7 @@ icon: https://www.svgrepo.com/
 
 -->
 
-<img src="./assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="240px">
+<img src="./assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="180px">
 
 # 張再富(zack)
 
@@ -13,34 +13,34 @@ icon: https://www.svgrepo.com/
 
  ## <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式
 
- - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
- - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
- - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> Phone: 0912344343
+  - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
+  - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
+  - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> Phone: 0912344343
 
 
 
  ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息 
 
- - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
- - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
- - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
- - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
- - <img src="assets/icons/github-brands.svg" width="18px"> Github: <a href="https://github.com/rockexe0000">https://github.com/rockexe0000</a>
-
+  - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
+  - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
+  - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
+  - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
+  - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
+    > <img src="assets/fig/Github-qrcode.svg" width="90px">
 
 
 
 ## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
-- 緯育股份有限公司，進修，2021/12~2022/04
-- 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
-- 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
-- 中華系統整合，JAVA工程師，2016/10~2018/10
+  - 緯育股份有限公司，進修，2021/12~2022/04
+  - 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
+  - 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
+  - 中華系統整合，JAVA工程師，2016/10~2018/10
 
 
 
 ## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
-- 大同大學，資訊工程學系，2012/09~2016/09
+  - 大同大學，資訊工程學系，2012/09~2016/09
 
 
 
@@ -71,9 +71,10 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - docker, wordpress, nginx, git, AWS SSM
   - 相關連結
-    - https://github.com/rockexe0000/cfc104_project1
-    - https://zeroxzack.xyz/
-      > ![](assets/fig/messageImage_1650269887725.jpg)
+    - <https://github.com/rockexe0000/cfc104_project1>
+      > <img src="assets/fig/AWS-doc.svg" width="90px">
+    - <https://zeroxzack.xyz/>
+      > <img src="assets/fig/AWS-demo.svg" width="90px">
 
 
 - 緯育TibaMe
