@@ -25,7 +25,8 @@ icon: https://www.svgrepo.com/
   - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
   - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
   - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
-  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">對於未來工作的提問: [reverse-interview.md](reverse-interview.md)
+  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">對於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
+    > <img src="assets/fig/reverse-interview.svg" width="90px">
   - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
     > <img src="assets/fig/Github-qrcode.svg" width="90px">
 
@@ -199,7 +200,7 @@ icon: https://www.svgrepo.com/
   - 專案內容：
     - 最高法院相關系統開發及維護
   - 工作內容：
-    - 分案、卷面、例稿、報表、警示、繳費、卷庫系統開發及維護
+    - 分案、卷面、例稿、報表、警示、繳費、卷庫...等系統開發及維護
   - 專案系統環境：
     - Linux,Windows,oracle
   - 使用技術：
