@@ -15,13 +15,13 @@ icon: https://www.svgrepo.com/
 
  - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
  - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
- - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> 電話: 0912344343
+ - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> Phone: 0912344343
 
 
 
  ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息 
 
- - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：網路工程師、DEVOPS工程師、JAVA工程師
+ - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
  - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
  - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
  - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
@@ -32,7 +32,7 @@ icon: https://www.svgrepo.com/
 
 ## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
-- 緯育股份有限公司，實習生，2021/12~2022/04
+- 緯育股份有限公司，進修，2021/12~2022/04
 - 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
 - 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
 - 中華系統整合，JAVA工程師，2016/10~2018/10
@@ -60,6 +60,7 @@ icon: https://www.svgrepo.com/
     - 配置 AWS VPC
     - wordpress 移至 AWS VPC
     - mysql 移至 AWS RDS
+    - 用GoDaddy申請網域並設置DNS管理
     - 用nginx反向代理，取得SSL憑證並對網站加密
     - wordpress多媒體檔案移至 AWS S3
     - 用SSM統一管理主機
@@ -72,6 +73,7 @@ icon: https://www.svgrepo.com/
   - 相關連結
     - https://github.com/rockexe0000/cfc104_project1
     - https://zeroxzack.xyz/
+      > ![](assets/fig/messageImage_1650269887725.jpg)
 
 
 - 緯育TibaMe
@@ -105,10 +107,7 @@ icon: https://www.svgrepo.com/
   - 工作內容：
     - 使用 HAProxy (web0)建置 HTTP 的平衡負載、容錯機制
   - 專案系統環境：
-    - frontend webserver
-    - backend webserver
-    - OS:
-      - ubuntu 20.04
+    - ubuntu 20.04, frontend-webserver, backend-webserver
   - 使用技術：
     - TCP/IP, load balance
   - 使用工具：
@@ -198,13 +197,7 @@ icon: https://www.svgrepo.com/
   - 專案內容：
     - 最高法院相關系統開發及維護
   - 工作內容：
-    - 分案系統開發及維護
-    - 卷面系統開發及維護
-    - 例稿系統開發及維護
-    - 報表系統開發及維護
-    - 警示系統開發及維護
-    - 繳費系統開發及維護
-    - 卷庫系統開發及維護
+    - 分案、卷面、例稿、報表、警示、繳費、卷庫系統開發及維護
   - 專案系統環境：
     - Linux,Windows,oracle
   - 使用技術：
@@ -274,7 +267,7 @@ icon: https://www.svgrepo.com/
 
 ## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills
 
-(1.略懂, 2.有自行學習或熟練度不足, 3.有實務經驗, 4.精通, 5.非常精通)
+(1.有自行學習, 2.非主要或不常用, 3.有實務經驗, 4.有多次實務經驗, 5.精通)
 
 ### Back-end & Frameworks
 
@@ -289,10 +282,9 @@ icon: https://www.svgrepo.com/
 - html ★★☆☆☆
 - css ★★☆☆☆
 
-
 ### Databases
-
-- mysql ★★★☆☆
+- PostgreSQL★★☆☆☆
+- mysql ★★☆☆☆
 - oracle ★★☆☆☆
 - informix ★★☆☆☆
 
@@ -313,7 +305,7 @@ icon: https://www.svgrepo.com/
 
 ### Continuous Integration
 
-- jenkins ★★☆☆☆
+- jenkins ★☆☆☆☆
 
 ### Version Control System
 
