@@ -19,12 +19,13 @@ icon: https://www.svgrepo.com/
 
 
 
- ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息 
+ ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息
 
   - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
   - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
   - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
   - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
+  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">對於未來工作的提問: [reverse-interview.md](reverse-interview.md)
   - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
     > <img src="assets/fig/Github-qrcode.svg" width="90px">
 
@@ -114,8 +115,8 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - HAProxy, jmeter
   - 相關連結
-    - https://github.com/rockexe0000/HAProxy
-
+    - <https://github.com/rockexe0000/HAProxy>
+      > <img src="assets/fig/haproxy.svg" width="90px">
 
 
 - 緯育TibaMe
