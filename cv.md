@@ -25,7 +25,7 @@ icon: https://www.svgrepo.com/
   - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
   - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
   - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
-  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">對於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
+  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">關於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
     > <img src="assets/fig/reverse-interview.svg" width="90px">
   - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
     > <img src="assets/fig/Github-qrcode.svg" width="90px">
@@ -118,23 +118,6 @@ icon: https://www.svgrepo.com/
   - 相關連結
     - <https://github.com/rockexe0000/HAProxy>
       > <img src="assets/fig/haproxy.svg" width="90px">
-
-
-- 緯育TibaMe
-  - 專案名稱：
-    - https分析報告
-  - 專案內容：
-    - 說明HTTPS的TLS1.2、TLS1.3差異，並擷取封包說明之
-  - 工作內容：
-    - 說明HTTPS的TLS1.2、TLS1.3差異，HTTPS封包分析並做成報告
-  - 專案系統環境：
-    - ubuntu
-  - 使用技術：
-    - TCP/IP, TLS1.2, TLS1.3
-  - 使用工具：
-    - firefox, wireshark
-  - 相關連結
-    - https://github.com/rockexe0000/tls1.2-and-tls1.3-differ
 
 
 - 國泰金控
