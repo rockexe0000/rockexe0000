@@ -27,7 +27,7 @@
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology**                                                                                                                                                                   | 🚀 **Projects** |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
-| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF3333&logo=java&logoColor=FFFFFF)](https://www.java.com)                                                      | -              |
+| [![Java](https://img.shields.io/static/v1?label=&message=Java&color=FF3333&logo=java&logoColor=FFFFFF)](https://www.java.com)                                                      | [![PHP購物平台網站](https://img.shields.io/static/v1?label=頭像產生器&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/rockexe0000/avatar-generator-parent)
 | [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/)                                             | -              |
 | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | -              |
 | [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/)                                           | -              |
