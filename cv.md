@@ -90,17 +90,27 @@ icon: https://www.svgrepo.com/
 
 - 緯育TibaMe
   - 專案名稱：
-    - 
+    - k8s 架設WordPress部落格
   - 專案內容：
     - 
   - 工作內容：
-    - 
+    - 建置MySQL
+      - 建⽴密碼檔及環境變數供Pod(MySQL)使⽤
+      - Pod(MySQL)資料落地
+      - 為Pod(MySQL)建⽴服務為WordPress連接準備
+    - 建⽴WordPress
+      - 建⽴環境變數供Pod(WordPress)使⽤
+      - 設定WordPress連接MySQL資料庫
+      - Pod(WordPress)資料落地
+      - 建⽴WordPress服務
+      - 開啟WordPress⾸⾴並開始進⾏部落格設定
+    - 備份資源物件與還原
   - 專案系統環境：
-    - 
+    - CentOS7
   - 使用技術：
-    - 
+    - k8s, docker
   - 使用工具：
-    - 
+    - VMware, wordpress, nginx, mysql
 
 
 
