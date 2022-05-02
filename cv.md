@@ -90,9 +90,9 @@ icon: https://www.svgrepo.com/
 
 - 緯育TibaMe
   - 專案名稱：
-    - k8s 架設WordPress部落格
+    - k8s 容器管理
   - 專案內容：
-    - 
+    - k8s 架設WordPress部落格
   - 工作內容：
     - 建置MySQL
       - 建⽴密碼檔及環境變數供Pod(MySQL)使⽤
