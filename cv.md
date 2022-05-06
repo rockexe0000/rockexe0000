@@ -77,7 +77,7 @@ icon: https://www.svgrepo.com/
       > <img src="assets/fig/AWS-doc.svg" width="90px">
     - <https://zeroxzack.xyz/>
       > <img src="assets/fig/AWS-demo.svg" width="90px">
-<img src="assets/fig/project-AWS-Architecture.jpg">
+<img src="assets/fig/project-AWS-Architecture.svg">
 
 
 
