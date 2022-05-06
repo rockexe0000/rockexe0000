@@ -77,13 +77,7 @@ icon: https://www.svgrepo.com/
       > <img src="assets/fig/AWS-doc.svg" width="90px">
     - <https://zeroxzack.xyz/>
       > <img src="assets/fig/AWS-demo.svg" width="90px">
-
-
-
-
-
-
-
+<img src="assets/fig/project-AWS-Architecture.jpg">
 
 
 
@@ -106,11 +100,60 @@ icon: https://www.svgrepo.com/
       - 開啟WordPress⾸⾴並開始進⾏部落格設定
     - 備份資源物件與還原
   - 專案系統環境：
-    - CentOS7
+    - VMware, CentOS7
   - 使用技術：
     - k8s, docker
   - 使用工具：
-    - VMware, wordpress, nginx, mysql
+    - wordpress, mysql
+<img src="assets/fig/k8s-wordpress.png">
+
+
+
+- 緯育TibaMe
+  - 專案名稱：
+    - Devops經典流程的實作
+  - 專案內容：
+    - 使用Git、Docker、Code Commit、Code Build、Code Deploy
+  - 工作內容：
+    - Code Commit
+      - 建立repository
+      - 添加Code Commit repository url 進入本地git資料夾
+      - 將本地分支推上雲端
+      - 連入EC2，將Code Commit 源碼拉入至ec2
+      - 當程式碼有新更動的時候
+        - 開發人員
+          - 程式碼 → Code Commit
+        - 系統維運人員
+          - 連入ec2 → 把新版源碼拉下來 → 停止container → 刪除image → 用新源碼構建image → 製作container
+    - Code build
+      - 創建ECR(Elastic Container Service)
+      - 修改buildspec.yml
+        - 設定secrect Manager的變數
+        - 設定ECR倉庫的位置
+      - 修改build.sh
+      - 將本地更新過的檔案，推入Code Commit
+      - 創建Code Build專案
+        - 選擇buildspec檔案的來源及位置
+        - 去IAM修改Role的policy增加AmazonEC2ContainerRegistryFullAccess、AmazonEC2ContainerRegistryPowerUser
+        - 開始Build
+        - 連入EC2並登入ECR，就可從EC2抓取ECR上的Image
+        - 啟用容器服務
+    - Code Deploy
+      - 修改appspec.yml及四個腳本的檔案內容
+        - 修改ApplicationStop.sh檔案的容器名稱
+        - 修改BeforeInstall.sh檔案的ECR image來源名稱
+        - 修改ApplicationStart.sh檔案Port位及ECR image來源
+        - 修改ValidateService.sh檔案的Port為80
+      - 打包檔案後上傳至AWS S3
+      - 創建Code deploy
+  - 專案系統環境：
+    - VMware, CentOS7, AWS
+  - 使用技術：
+    - docker, git
+  - 使用工具：
+    - AWS Code Commit, AWS Code build, AWS Code Deploy
+
+<img src="assets/fig/AWS-devops.svg">
 
 
 
@@ -136,7 +179,8 @@ icon: https://www.svgrepo.com/
     - TCP/IP
   - 使用工具：
     - VMware vSphere Client
-
+<img src="assets/fig/private-cloud-Architecture.png">
+<img src="assets/fig/private-cloud.png">
 
 
 - 緯育TibaMe
@@ -155,7 +199,7 @@ icon: https://www.svgrepo.com/
   - 相關連結
     - <https://github.com/rockexe0000/HAProxy>
       > <img src="assets/fig/haproxy.svg" width="90px">
-
+<img src="assets/fig/haproxy-top.png">
 
 - 國泰金控
   - 專案名稱：
@@ -181,9 +225,9 @@ icon: https://www.svgrepo.com/
   - 專案系統環境：
     - AWS, PostgreSQL, MongoDB
   - 使用技術：
-    - JAVA、Spring、Docker
+    - JAVA、Spring、Docker, RESTful API
   - 使用工具：
-    - Eclipse, Gradle, Git, DataGrip
+    - Eclipse, Gradle, Git, DataGrip, aws cognito
 
 - 中國人壽
   - 專案名稱：
