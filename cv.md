@@ -11,6 +11,57 @@ icon: https://www.svgrepo.com/
 
 人生三十年，與天地長久相較，如夢又似幻；一度得生者，豈有不滅者乎？
 
+
+
+
+<!-- TOC -->
+
+- [張再富zack](#%E5%BC%B5%E5%86%8D%E5%AF%8Czack)
+    - [<img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式](#img-srcassetsiconsaddress-card-svgrepo-comsvg-width24px-%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F)
+    - [<img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息](#img-srcassetsiconsinfo-circle-svgrepo-comsvg-width24px-%E5%80%8B%E4%BA%BA%E8%A8%8A%E6%81%AF)
+    - [<img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience](#img-srcassetsiconsbriefcase-svgrepo-comsvg-width24px-%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7-work-experience)
+        - [緯育股份有限公司，進修，2021/12~2022/04](#%E7%B7%AF%E8%82%B2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%80%B2%E4%BF%AE202112202204)
+        - [云智資訊股份有限公司，JAVA工程師，2021/04~2021/10](#%E4%BA%91%E6%99%BA%E8%B3%87%E8%A8%8A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8java%E5%B7%A5%E7%A8%8B%E5%B8%AB202104202110)
+        - [正璽顧問有限公司，JAVA工程師，2018/11~2021/01](#%E6%AD%A3%E7%92%BD%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8java%E5%B7%A5%E7%A8%8B%E5%B8%AB201811202101)
+        - [中華系統整合，JAVA工程師，2016/10~2018/10](#%E4%B8%AD%E8%8F%AF%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88java%E5%B7%A5%E7%A8%8B%E5%B8%AB201610201810)
+    - [<img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education](#img-srcassetsiconsgraduation-cap-svgrepo-comsvg-width24px-%E6%9C%80%E9%AB%98%E5%AD%B8%E6%AD%B7--education)
+        - [大同大學，資訊工程學系，2012/09~2016/09](#%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB201209201609)
+    - [<img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience](#img-srcassetsiconsproject-diagram-svgrepo-comsvg-width24px-%E5%B0%88%E6%A1%88%E7%B6%93%E6%AD%B7-project-experience)
+        - [緯育TibaMe](#%E7%B7%AF%E8%82%B2tibame)
+            - [專案名稱：雲端經典架構WordPress](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E9%9B%B2%E7%AB%AF%E7%B6%93%E5%85%B8%E6%9E%B6%E6%A7%8Bwordpress)
+            - [專案名稱：k8s 容器管理](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1k8s-%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86)
+            - [專案名稱：Devops經典流程的實作](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1devops%E7%B6%93%E5%85%B8%E6%B5%81%E7%A8%8B%E7%9A%84%E5%AF%A6%E4%BD%9C)
+            - [專案名稱：私有雲建置](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E7%A7%81%E6%9C%89%E9%9B%B2%E5%BB%BA%E7%BD%AE)
+            - [專案名稱：HAProxy建置](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1haproxy%E5%BB%BA%E7%BD%AE)
+        - [國泰金控](#%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7)
+            - [專案名稱：投資平台 多租戶會員](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%8A%95%E8%B3%87%E5%B9%B3%E5%8F%B0-%E5%A4%9A%E7%A7%9F%E6%88%B6%E6%9C%83%E5%93%A1)
+            - [專案名稱：智慧醫療 業務中台](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%99%BA%E6%85%A7%E9%86%AB%E7%99%82-%E6%A5%AD%E5%8B%99%E4%B8%AD%E5%8F%B0)
+        - [中國人壽](#%E4%B8%AD%E5%9C%8B%E4%BA%BA%E5%A3%BD)
+            - [專案名稱：數位行銷部-電子商務前台](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E9%83%A8-%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E5%89%8D%E5%8F%B0)
+            - [專案名稱：數位行銷部-電子商務後台](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%95%B8%E4%BD%8D%E8%A1%8C%E9%8A%B7%E9%83%A8-%E9%9B%BB%E5%AD%90%E5%95%86%E5%8B%99%E5%BE%8C%E5%8F%B0)
+        - [宏碁](#%E5%AE%8F%E7%A2%81)
+            - [專案名稱：最高法院相關系統開發及維護](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E7%9B%B8%E9%97%9C%E7%B3%BB%E7%B5%B1%E9%96%8B%E7%99%BC%E5%8F%8A%E7%B6%AD%E8%AD%B7)
+            - [專案名稱：最高法院轉檔系統維護](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E6%9C%80%E9%AB%98%E6%B3%95%E9%99%A2%E8%BD%89%E6%AA%94%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7)
+        - [中華電信研究院](#%E4%B8%AD%E8%8F%AF%E9%9B%BB%E4%BF%A1%E7%A0%94%E7%A9%B6%E9%99%A2)
+            - [專案名稱：帳務系統出帳作業](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E7%B3%BB%E7%B5%B1%E5%87%BA%E5%B8%B3%E4%BD%9C%E6%A5%AD)
+            - [專案名稱：出帳作業抽產檔模組](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%87%BA%E5%B8%B3%E4%BD%9C%E6%A5%AD%E6%8A%BD%E7%94%A2%E6%AA%94%E6%A8%A1%E7%B5%84)
+            - [專案名稱：帳務排程系統維護](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E6%8E%92%E7%A8%8B%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7)
+            - [專案名稱：帳務系統持續性整合](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E7%B3%BB%E7%B5%B1%E6%8C%81%E7%BA%8C%E6%80%A7%E6%95%B4%E5%90%88)
+    - [<img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills](#img-srcassetsiconstools-svgrepo-comsvg-width24px-%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE-skills)
+        - [Back-end & Frameworks](#back-end--frameworks)
+        - [Front-end & Frameworks](#front-end--frameworks)
+        - [Databases](#databases)
+        - [Servers](#servers)
+        - [Operating System](#operating-system)
+        - [Build Tool](#build-tool)
+        - [Continuous Integration](#continuous-integration)
+        - [Version Control System](#version-control-system)
+
+<!-- /TOC -->
+
+
+
+
  ## <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式
 
   - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
@@ -34,15 +85,15 @@ icon: https://www.svgrepo.com/
 
 ## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
-  - 緯育股份有限公司，進修，2021/12~2022/04
-  - 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
-  - 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
-  - 中華系統整合，JAVA工程師，2016/10~2018/10
+### 緯育股份有限公司，進修，2021/12~2022/04
+### 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
+### 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
+### 中華系統整合，JAVA工程師，2016/10~2018/10
 
 
 
 ## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
-  - 大同大學，資訊工程學系，2012/09~2016/09
+### 大同大學，資訊工程學系，2012/09~2016/09
 
 
 
@@ -52,9 +103,9 @@ icon: https://www.svgrepo.com/
 
 
 
-- 緯育TibaMe
-  - 專案名稱：
-    - 雲端經典架構(WordPress)
+### 緯育TibaMe
+
+#### 專案名稱：雲端經典架構(WordPress)
   - 專案內容：
     - 在AWS/GCP搭建一個Wordpress網站
   - 工作內容：
@@ -80,11 +131,7 @@ icon: https://www.svgrepo.com/
 <img src="assets/fig/project-AWS-Architecture.svg">
 
 
-
-
-- 緯育TibaMe
-  - 專案名稱：
-    - k8s 容器管理
+#### 專案名稱：k8s 容器管理
   - 專案內容：
     - k8s 架設WordPress部落格
   - 工作內容：
@@ -109,9 +156,8 @@ icon: https://www.svgrepo.com/
 
 
 
-- 緯育TibaMe
-  - 專案名稱：
-    - Devops經典流程的實作
+
+#### 專案名稱：Devops經典流程的實作
   - 專案內容：
     - 使用Git、Docker、Code Commit、Code Build、Code Deploy
   - 工作內容：
@@ -159,9 +205,7 @@ icon: https://www.svgrepo.com/
 
 
 
-- 緯育TibaMe
-  - 專案名稱：
-    - 私有雲建置
+#### 專案名稱：私有雲建置
   - 專案內容：
     - 雲端作業系統建置與維護
   - 工作內容：
@@ -183,9 +227,7 @@ icon: https://www.svgrepo.com/
 <img src="assets/fig/private-cloud.png">
 
 
-- 緯育TibaMe
-  - 專案名稱：
-    - HAProxy建置
+#### 專案名稱：HAProxy建置
   - 專案內容：
     - 平衡負載、容錯機制的建置
   - 工作內容：
@@ -201,9 +243,9 @@ icon: https://www.svgrepo.com/
       > <img src="assets/fig/haproxy.svg" width="90px">
 <img src="assets/fig/haproxy-top.png">
 
-- 國泰金控
-  - 專案名稱：
-    - 投資平台 (多租戶會員)
+### 國泰金控
+
+#### 專案名稱：投資平台 (多租戶會員)
   - 專案內容：
     - 投資平台多租戶架構會員服務
   - 工作內容：
@@ -215,9 +257,8 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - Eclipse, Gradle, Git, DataGrip
 
-- 國泰金控
-  - 專案名稱：
-    - 智慧醫療 業務中台
+
+#### 專案名稱：智慧醫療 業務中台
   - 專案內容：
     - 串接數據後台API
   - 工作內容：
@@ -229,9 +270,9 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - Eclipse, Gradle, Git, DataGrip, aws cognito
 
-- 中國人壽
-  - 專案名稱：
-    - 數位行銷部-電子商務前台
+### 中國人壽
+
+#### 專案名稱：數位行銷部-電子商務前台
   - 專案內容：
     - 電子商務前台-提供客戶線上投保相關的服務
   - 工作內容：
@@ -243,9 +284,8 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - eclipse,gradle,subversion,sql developer
 
-- 中國人壽
-  - 專案名稱：
-    - 數位行銷部-電子商務後台
+
+#### 專案名稱：數位行銷部-電子商務後台
   - 專案內容：
     - 電子商務後台-提供內部人員維護投保相關的服務
   - 工作內容：
@@ -258,9 +298,8 @@ icon: https://www.svgrepo.com/
     - eclipse,gradle,subversion,sql developer
 
 
-- 宏碁
-  - 專案名稱：
-    - 最高法院相關系統開發及維護
+### 宏碁
+#### 專案名稱：最高法院相關系統開發及維護
   - 專案內容：
     - 最高法院相關系統開發及維護
   - 工作內容：
@@ -272,9 +311,22 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - eclipse,subversion
 
-- 中華電信研究院
-  - 專案名稱：
-    - 帳務系統出帳作業
+#### 專案名稱：最高法院轉檔系統維護
+- 專案內容：
+  - 最高法院轉檔系統維護
+- 工作內容：
+  - 打包最高資料給其他單位或接收其他單位資料的批次系統開發及維護
+- 專案系統環境：
+  - Windows,oracle
+- 使用技術：
+  - JAVA
+- 使用工具：
+  - eclipse,subversion
+
+
+### 中華電信研究院
+
+#### 專案名稱：帳務系統出帳作業
   - 專案內容：
     - 根據分析人員開出的需求文件，確認規格及流程，產出作業程式
   - 工作內容：
@@ -287,9 +339,7 @@ icon: https://www.svgrepo.com/
     - eclipse,maven,subversion,dbvisualizer,filezilla
 
 
-- 中華電信研究院
-  - 專案名稱：
-    - 出帳作業抽產檔模組
+#### 專案名稱：出帳作業抽產檔模組
   - 專案內容：
     - 根據設定檔抽取資料，產製指定格式檔案的模組
   - 工作內容：
@@ -301,9 +351,7 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - eclipse,maven,subversion,dbvisualizer,filezilla
 
-- 中華電信研究院
-  - 專案名稱：
-    - 帳務排程系統維護
+#### 專案名稱：帳務排程系統維護
   - 專案內容：
     - 帳務排程系統維護
   - 工作內容：
@@ -316,9 +364,7 @@ icon: https://www.svgrepo.com/
     - eclipse,maven,subversion,dbvisualizer,filezilla
 
 
-- 中華電信研究院
-  - 專案名稱：
-    - 帳務系統持續性整合
+#### 專案名稱：帳務系統持續性整合
   - 專案內容：
     - 帳務系統持續性整合
   - 工作內容：
