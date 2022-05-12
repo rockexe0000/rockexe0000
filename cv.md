@@ -13,20 +13,50 @@ icon: https://www.svgrepo.com/
 
 
 
+---
+
+## 聯絡方式-Contact Information
+return [Summary](#summary)
+
+- <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式-Contact Information
+  - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
+  - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
+  - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> Phone: 0912344343
+
+---
+
+## 個人資訊-Personal Information
+return [Summary](#summary)
+
+- <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人資訊-Personal Information
+  - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
+  - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
+  - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
+  - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
+  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">關於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
+    > <img src="assets/fig/reverse-interview.svg" width="90px">
+  - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
+    > <img src="assets/fig/Github-qrcode.svg" width="90px">
+
+---
+
+## Summary
+return [Summary](#summary)
 
 <!-- TOC -->
 
 - [張再富zack](#%E5%BC%B5%E5%86%8D%E5%AF%8Czack)
-    - [<img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式](#img-srcassetsiconsaddress-card-svgrepo-comsvg-width24px-%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F)
-    - [<img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息](#img-srcassetsiconsinfo-circle-svgrepo-comsvg-width24px-%E5%80%8B%E4%BA%BA%E8%A8%8A%E6%81%AF)
-    - [<img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience](#img-srcassetsiconsbriefcase-svgrepo-comsvg-width24px-%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7-work-experience)
+    - [聯絡方式-Contact Information](#%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F-contact-information)
+    - [個人資訊-Personal Information](#%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A-personal-information)
+    - [Summary](#summary)
+    - [工作經歷-Work Experience](#%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7-work-experience)
         - [緯育股份有限公司，進修，2021/12~2022/04](#%E7%B7%AF%E8%82%B2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%80%B2%E4%BF%AE202112202204)
         - [云智資訊股份有限公司，JAVA工程師，2021/04~2021/10](#%E4%BA%91%E6%99%BA%E8%B3%87%E8%A8%8A%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8java%E5%B7%A5%E7%A8%8B%E5%B8%AB202104202110)
         - [正璽顧問有限公司，JAVA工程師，2018/11~2021/01](#%E6%AD%A3%E7%92%BD%E9%A1%A7%E5%95%8F%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8java%E5%B7%A5%E7%A8%8B%E5%B8%AB201811202101)
         - [中華系統整合，JAVA工程師，2016/10~2018/10](#%E4%B8%AD%E8%8F%AF%E7%B3%BB%E7%B5%B1%E6%95%B4%E5%90%88java%E5%B7%A5%E7%A8%8B%E5%B8%AB201610201810)
-    - [<img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education](#img-srcassetsiconsgraduation-cap-svgrepo-comsvg-width24px-%E6%9C%80%E9%AB%98%E5%AD%B8%E6%AD%B7--education)
+    - [最高學歷 – Education](#%E6%9C%80%E9%AB%98%E5%AD%B8%E6%AD%B7--education)
         - [大同大學，資訊工程學系，2012/09~2016/09](#%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8%E8%B3%87%E8%A8%8A%E5%B7%A5%E7%A8%8B%E5%AD%B8%E7%B3%BB201209201609)
-    - [<img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience](#img-srcassetsiconsproject-diagram-svgrepo-comsvg-width24px-%E5%B0%88%E6%A1%88%E7%B6%93%E6%AD%B7-project-experience)
+    - [專案經歷-Project Experience](#%E5%B0%88%E6%A1%88%E7%B6%93%E6%AD%B7-project-experience)
         - [緯育TibaMe](#%E7%B7%AF%E8%82%B2tibame)
             - [專案名稱：雲端經典架構WordPress](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E9%9B%B2%E7%AB%AF%E7%B6%93%E5%85%B8%E6%9E%B6%E6%A7%8Bwordpress)
             - [專案名稱：k8s 容器管理](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1k8s-%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86)
@@ -47,7 +77,7 @@ icon: https://www.svgrepo.com/
             - [專案名稱：出帳作業抽產檔模組](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%87%BA%E5%B8%B3%E4%BD%9C%E6%A5%AD%E6%8A%BD%E7%94%A2%E6%AA%94%E6%A8%A1%E7%B5%84)
             - [專案名稱：帳務排程系統維護](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E6%8E%92%E7%A8%8B%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7)
             - [專案名稱：帳務系統持續性整合](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E7%B3%BB%E7%B5%B1%E6%8C%81%E7%BA%8C%E6%80%A7%E6%95%B4%E5%90%88)
-    - [<img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills](#img-srcassetsiconstools-svgrepo-comsvg-width24px-%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE-skills)
+    - [技能清單-Skills](#%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE-skills)
         - [Back-end & Frameworks](#back-end--frameworks)
         - [Front-end & Frameworks](#front-end--frameworks)
         - [Databases](#databases)
@@ -56,54 +86,46 @@ icon: https://www.svgrepo.com/
         - [Build Tool](#build-tool)
         - [Continuous Integration](#continuous-integration)
         - [Version Control System](#version-control-system)
+    - [自傳-Autobiography](#%E8%87%AA%E5%82%B3-autobiography)
 
 <!-- /TOC -->
 
 
 
-
- ## <img src="assets/icons/address-card-svgrepo-com.svg" width="24px"> 聯絡方式
-
-  - <img src="assets/icons/line-svgrepo-com.svg" width="18px"> Line: zeroxzack</a>
-  - <img src="assets/icons/envelope-svgrepo-com.svg" width="18px"> Email: rockexe0000@yahoo.com.tw
-  - <img src="assets/icons/phone-svgrepo-com.svg" width="18px"> Phone: 0912344343
+---
 
 
+## 工作經歷-Work Experience
+return [Summary](#summary)
 
- ## <img src="assets/icons/info-circle-svgrepo-com.svg" width="24px"> 個人訊息
-
-  - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
-  - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
-  - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
-  - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
-  - <img src="assets/icons/question-svgrepo-com.svg" width="18px">關於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
-    > <img src="assets/fig/reverse-interview.svg" width="90px">
-  - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
-    > <img src="assets/fig/Github-qrcode.svg" width="90px">
-
-
-
-## <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
+<img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
 ### 緯育股份有限公司，進修，2021/12~2022/04
+
 ### 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
+
 ### 正璽顧問有限公司，JAVA工程師，2018/11~2021/01
+
 ### 中華系統整合，JAVA工程師，2016/10~2018/10
 
+---
 
+## 最高學歷 – Education
+return [Summary](#summary)
 
-## <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
+<img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
+
 ### 大同大學，資訊工程學系，2012/09~2016/09
 
+---
 
+## 專案經歷-Project Experience
+return [Summary](#summary)
 
-
-
-## <img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience
-
-
+<img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience
 
 ### 緯育TibaMe
+return [Summary](#summary)
 
 #### 專案名稱：雲端經典架構(WordPress)
   - 專案內容：
@@ -244,6 +266,7 @@ icon: https://www.svgrepo.com/
 <img src="assets/fig/haproxy-top.png">
 
 ### 國泰金控
+return [Summary](#summary)
 
 #### 專案名稱：投資平台 (多租戶會員)
   - 專案內容：
@@ -271,6 +294,7 @@ icon: https://www.svgrepo.com/
     - Eclipse, Gradle, Git, DataGrip, aws cognito
 
 ### 中國人壽
+return [Summary](#summary)
 
 #### 專案名稱：數位行銷部-電子商務前台
   - 專案內容：
@@ -299,6 +323,8 @@ icon: https://www.svgrepo.com/
 
 
 ### 宏碁
+return [Summary](#summary)
+
 #### 專案名稱：最高法院相關系統開發及維護
   - 專案內容：
     - 最高法院相關系統開發及維護
@@ -325,6 +351,7 @@ icon: https://www.svgrepo.com/
 
 
 ### 中華電信研究院
+return [Summary](#summary)
 
 #### 專案名稱：帳務系統出帳作業
   - 專案內容：
@@ -376,9 +403,12 @@ icon: https://www.svgrepo.com/
   - 使用工具：
     - eclipse,maven,subversion,Jenkins,sonarqube
 
+---
 
+## 技能清單-Skills
+return [Summary](#summary)
 
-## <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills
+<img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills
 
 (1.有自行學習, 2.非主要或不常用, 3.有實務經驗, 4.有多次實務經驗, 5.精通)
 
@@ -426,7 +456,40 @@ icon: https://www.svgrepo.com/
 - SVN ★★★☆☆
 
 
------
+---
+
+## 自傳-Autobiography
+return [Summary](#summary)
+
+<img src="assets/icons/biography.svg" width="24px"> 自傳-Autobiography
+
+    擔任軟體工程師需要嚴謹的邏輯思考，並且能夠轉化於實際應用，相信貴公司所交付的任務，必能夠利用學經歷專長努力達成。 
+
+    本人畢業於大同大學資訊工程系，系內的教學目標以「電腦基礎理論」與「應用技術」為主軸，並且著重「獨立思考」的研究能力，目標是成為資訊業核心技術人才。在學期間參加許多次大學程式能力檢定(CPE)，除了課堂知識，希望能讓新資訊與社會同步接軌，因應未來職場的需要。
+ 
+    從小生長在台北，家中有6個成員，從小對於科技非常有興趣，父母開明的教育方式，讓我對於新鮮事物都會去了解，並且研究追根根到底。在學期間也學習如何與人溝通和協調與人合作，團隊的管理與組織的能力，永遠要讓自己在一個積極的態度，來面對未知的挑戰。 
+
+    大學畢業專題內容是演算法平行化，方法大致上是先將原本以循序執行的演算法做分析，將可同時運算的部份取出，透過CUDA技術利用GPU同時出理多重任務。
+
+    畢業後於中華電信研究院工作，協助開發帳務系統，過程中熟悉了一些開發框架或技術，例如:spring、maven、junit、svn等，工作內容主要是根據分析文件開發出相對應的作業程式，有時會幫忙開發維護工具。
+
+    隨後於宏碁工作，協助最高法案開發維護分案系統，過程中了解在需求管理及功能管理的環境還不完整的情況下，必須做開發順序的優先度確認及開發功能前後上的差異才能開始開發。
+
+    之後於中國人壽工作，協助開發線上投保電商前後台，過程中了解他們系統與系統之間，主要是用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式取得，再依據需求去處理，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
+
+    之後於國泰金控工作，專案管理方式是用敏捷式(Scrum)，微服務(Microservices)架構，領域驅動開發（Domain Drive Design，DDD），協助開發兩個專案；
+ 
+    其中一個是智慧醫療業務中台系統，主要是提供RESTful API給國壽地端呼叫，並用AWS cognito服務以JWT(JSON Web Token)做身分驗證，將篩選過的資料轉送至數據中心以方便資料分析及應用；
+ 
+    另一個是多租戶(Multi-tenancy)架構的投資平台，是Serverless架構，主要是用到Google身分平台(Google Identity Platform，GIP)管理及驗證身分，租戶的客戶資料是以每個租戶一個獨立資料庫儲存，並以Hibernate中配置多租戶方式使用。
+
+
+    個性隨和、友善，希望把事情做到完美，不斷的學習並且要求自己要做到最好，不懂的事務會主動詢問學習，期待不斷精進自己的專業知識，努力學習做好每一件事情，希望能夠獲得貴公司的面試機會。
+
+
+
+
+---
 
 
 <!--
