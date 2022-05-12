@@ -63,7 +63,8 @@ return [Summary](#summary)
         - [緯育TibaMe](#%E7%B7%AF%E8%82%B2tibame)
             - [專案名稱：雲端經典架構-WordPress 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E9%9B%B2%E7%AB%AF%E7%B6%93%E5%85%B8%E6%9E%B6%E6%A7%8B-wordpress-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
             - [專案名稱：k8s 容器管理 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1k8s-%E5%AE%B9%E5%99%A8%E7%AE%A1%E7%90%86-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
-            - [專案名稱：Devops經典流程的實作 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1devops%E7%B6%93%E5%85%B8%E6%B5%81%E7%A8%8B%E7%9A%84%E5%AF%A6%E4%BD%9C-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
+            - [專案名稱：AWS Devops經典流程的實作 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1aws-devops%E7%B6%93%E5%85%B8%E6%B5%81%E7%A8%8B%E7%9A%84%E5%AF%A6%E4%BD%9C-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
+            - [專案名稱：跨國企業網路規劃與實作 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E8%B7%A8%E5%9C%8B%E4%BC%81%E6%A5%AD%E7%B6%B2%E8%B7%AF%E8%A6%8F%E5%8A%83%E8%88%87%E5%AF%A6%E4%BD%9C-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
             - [專案名稱：私有雲建置 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E7%A7%81%E6%9C%89%E9%9B%B2%E5%BB%BA%E7%BD%AE-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
             - [專案名稱：HAProxy建置 2021/12 ~ 2022/04 共5個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1haproxy%E5%BB%BA%E7%BD%AE-202112--202204-%E5%85%B15%E5%80%8B%E6%9C%88)
         - [國泰金控](#%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7)
@@ -199,7 +200,7 @@ return [Summary](#summary)
 
 
 
-#### 專案名稱：Devops經典流程的實作 (2021/12 ~ 2022/04 共5個月)
+#### 專案名稱：AWS Devops經典流程的實作 (2021/12 ~ 2022/04 共5個月)
 return [Summary](#summary)
 
   - 專案內容：
@@ -244,6 +245,25 @@ return [Summary](#summary)
     - AWS Code Commit, AWS Code build, AWS Code Deploy
 
 <img src="assets/fig/AWS-devops.svg">
+
+
+#### 專案名稱：跨國企業網路規劃與實作 (2021/12 ~ 2022/04 共5個月)
+return [Summary](#summary)
+
+  - 專案內容：
+    - VLSM切割子網段與IP位址的指定
+    - VLAN/802.1QTrunking/Inter-VLAN Routering
+    - Multiple Area OSPF / Static / Default Routing設定與優化
+    - Static NAT / Dynamic NAT / PAT 設定
+    - ACL / Firewall DMZ 的 Security 設定
+    - IPSec Site-to-Site VPN 設定
+  - 專案系統環境：
+    - Windows
+  - 使用技術：
+    - TCP/IP
+  - 使用工具：
+    - PacketTracer cisco
+<img src="assets/fig/LabTest-LabTopology.png">
 
 
 #### 專案名稱：私有雲建置 (2021/12 ~ 2022/04 共5個月)
