@@ -8,10 +8,13 @@ icon: https://www.svgrepo.com/
 <img src="./assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="180px">
 
 # 張再富(zack)
-
+<!--
 人生三十年，與天地長久相較，如夢又似幻；一度得生者，豈有不滅者乎？
+-->
 
+    擔任軟體工程師需要嚴謹的邏輯思考，並且能夠轉化於實際應用，相信貴公司所交付的任務，必能夠利用學經歷專長努力達成。
 
+    個性隨和、友善，希望把事情做到完美，不斷的學習並且要求自己要做到最好，不懂的事務會主動詢問學習，期待不斷精進自己的專業知識，努力學習做好每一件事情，希望能夠獲得貴公司的面試機會。
 
 ---
 
@@ -110,6 +113,9 @@ return [Summary](#summary)
 <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
 ### 緯育股份有限公司，進修，2021/12~2022/04
+<img src="assets/fig/tibame-studentcard.jpg"  width="180px">
+<img src="assets/fig/tibame-CertificateOfMerit.jpg"  width="180px">
+<img src="assets/fig/tibame-diploma.jpg"  width="180px">
 
 ### 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
 
@@ -125,6 +131,7 @@ return [Summary](#summary)
 <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
 
 ### 大同大學(Tatung University)，資訊工程學系，2012/09~2016/09
+<img src="assets/fig/ttu-diploma.jpg"  width="180px">
 
 ---
 
@@ -544,7 +551,7 @@ return [Summary](#summary)
 ### 緯育TibaMe
 return [Summary](#summary)
 
-
+    之後於緯育TibaMe進修，是因為對於平常開發內容之外的基礎設施(infrastructure)想進一步了解，剛好商研院申請通過勞動部計畫，委託緯育TibaMe提供訓練課程，所以決定參加受訓，進修過程中補足了我一些除了開發之外的基本知識，像是網路、系統、資安、容器化、Devops、雲端等。
 
 ### 結尾
 return [Summary](#summary)
