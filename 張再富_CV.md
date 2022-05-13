@@ -7,7 +7,7 @@ icon: https://www.svgrepo.com/
 
 <img src="./assets/fig/10629715_794426477245479_4597081193368096017_n2.jpg"  width="180px">
 
-# 張再富(zack)
+# 張再富 (zack)
 <!--
 人生三十年，與天地長久相較，如夢又似幻；一度得生者，豈有不滅者乎？
 -->
@@ -43,14 +43,29 @@ return [Summary](#summary)
 
 ---
 
+## 資格綜述 - Summary of Qualifications
+return [Summary](#summary)
+
+- 5年以上的各種資訊公司或專案的開發和維護經驗。
+- 可獨立或與團隊成員搭配合作。
+- 熟悉 Spring boot 框架
+- 熟悉 Restful API 設計。
+- 熟悉任一關聯式系統設計。
+- 熟悉任一 NoSQL 資料庫系統設計。
+- 了解微服務概念。
+- 熟悉 Git 原理及使用。
+
+---
+
 ## Summary
 return [Summary](#summary)
 
 <!-- TOC -->
 
-- [張再富zack](#%E5%BC%B5%E5%86%8D%E5%AF%8Czack)
+- [張再富 zack](#%E5%BC%B5%E5%86%8D%E5%AF%8C-zack)
     - [聯絡方式 - Contact Information](#%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F---contact-information)
     - [個人資訊 - Personal Information](#%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A---personal-information)
+    - [資格綜述 - Summary of Qualifications](#%E8%B3%87%E6%A0%BC%E7%B6%9C%E8%BF%B0---summary-of-qualifications)
     - [Summary](#summary)
     - [工作經歷 - Work Experience](#%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7---work-experience)
         - [緯育股份有限公司，進修，2021/12~2022/04](#%E7%B7%AF%E8%82%B2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%80%B2%E4%BF%AE202112202204)
@@ -81,7 +96,7 @@ return [Summary](#summary)
             - [專案名稱：出帳作業抽產檔模組 2016/10 ~ 2018/08 共22個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%87%BA%E5%B8%B3%E4%BD%9C%E6%A5%AD%E6%8A%BD%E7%94%A2%E6%AA%94%E6%A8%A1%E7%B5%84-201610--201808-%E5%85%B122%E5%80%8B%E6%9C%88)
             - [專案名稱：帳務排程系統維護 2016/10 ~ 2018/08 共22個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E6%8E%92%E7%A8%8B%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7-201610--201808-%E5%85%B122%E5%80%8B%E6%9C%88)
             - [專案名稱：帳務系統持續性整合 2016/10 ~ 2018/08 共22個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E7%B3%BB%E7%B5%B1%E6%8C%81%E7%BA%8C%E6%80%A7%E6%95%B4%E5%90%88-201610--201808-%E5%85%B122%E5%80%8B%E6%9C%88)
-    - [技能清單-Skills](#%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE-skills)
+    - [技能清單 - Skills](#%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE---skills)
         - [Back-end & Frameworks](#back-end--frameworks)
         - [Front-end & Frameworks](#front-end--frameworks)
         - [Databases](#databases)
@@ -90,7 +105,7 @@ return [Summary](#summary)
         - [Build Tool](#build-tool)
         - [Continuous Integration](#continuous-integration)
         - [Version Control System](#version-control-system)
-    - [自傳-Autobiography](#%E8%87%AA%E5%82%B3-autobiography)
+    - [自傳 - Autobiography](#%E8%87%AA%E5%82%B3---autobiography)
         - [開頭](#%E9%96%8B%E9%A0%AD)
         - [家庭背景](#%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF)
         - [大同大學 - 經歷](#%E5%A4%A7%E5%90%8C%E5%A4%A7%E5%AD%B8---%E7%B6%93%E6%AD%B7)
@@ -140,6 +155,7 @@ return [Summary](#summary)
 return [Summary](#summary)
 
 <img src="assets/icons/project-diagram-svgrepo-com.svg" width="24px"> 專案經歷-Project Experience
+
 
 ### 緯育TibaMe - 專案
 return [Summary](#summary)
@@ -308,6 +324,8 @@ return [Summary](#summary)
       > <img src="assets/fig/haproxy.svg" width="90px">
 <img src="assets/fig/haproxy-top.png">
 
+---
+
 ### 國泰金控 - 專案
 return [Summary](#summary)
 
@@ -339,6 +357,8 @@ return [Summary](#summary)
     - JAVA、Spring、Docker, RESTful API
   - 使用工具：
     - Eclipse, Gradle, Git, DataGrip, aws cognito
+
+---
 
 ### 中國人壽 - 專案
 return [Summary](#summary)
@@ -372,6 +392,7 @@ return [Summary](#summary)
   - 使用工具：
     - eclipse,gradle,subversion,sql developer
 
+---
 
 ### 宏碁 - 專案
 return [Summary](#summary)
@@ -404,6 +425,7 @@ return [Summary](#summary)
 - 使用工具：
   - eclipse,subversion
 
+---
 
 ### 中華電信研究院 - 專案
 return [Summary](#summary)
@@ -468,7 +490,7 @@ return [Summary](#summary)
 
 ---
 
-## 技能清單-Skills
+## 技能清單 - Skills
 return [Summary](#summary)
 
 <img src="assets/icons/tools-svgrepo-com.svg" width="24px"> 技能清單-Skills
@@ -522,7 +544,7 @@ return [Summary](#summary)
 
 ---
 
-## 自傳-Autobiography
+## 自傳 - Autobiography
 return [Summary](#summary)
 
 <img src="assets/icons/biography.svg" width="24px"> 自傳-Autobiography
@@ -571,7 +593,15 @@ return [Summary](#summary)
 ### 緯育TibaMe - 經歷
 return [Summary](#summary)
 
-    之後於緯育TibaMe進修，是因為對於平常開發內容之外的基礎設施(infrastructure)想進一步了解，剛好商研院申請通過勞動部計畫，委託緯育TibaMe提供訓練課程，所以決定參加受訓，進修過程中補足了我一些除了開發之外的基本知識，像是網路、系統、資安、容器化、Devops、雲端等。
+    之後於緯育TibaMe進修，是因為對於平常開發內容之外的基礎設施(infrastructure)想進一步了解，剛好商研院申請通過勞動部計畫，委託緯育TibaMe提供訓練課程，所以決定參加受訓，進修過程中補足了我一些除了開發之外的基本知識，像是網路、系統、虛擬化、Devops、雲端等，最後小組專題是將WordPress網站以經典架構佈署在AWS/GCP公有雲上。
+
+    網路: 網路協定、網路規劃、基礎網路架構
+    系統: LINUX環境建置與指令操作、權限管理、Shell Script、資訊安全
+    虛擬化: VMware VSphere, ESXI, VCenter, VMotion, HA/FT
+    Devops: Git, Docker, k8s, Ansible, CI/CD
+    雲端: AWS 雲端服務技術, 環境配置, 資源監控
+
+
 
 ### 結尾
 return [Summary](#summary)
