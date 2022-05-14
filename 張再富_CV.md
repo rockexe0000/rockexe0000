@@ -18,6 +18,20 @@ icon: https://www.svgrepo.com/
 
 ---
 
+## 資格綜述 - Summary of Qualifications
+return [Summary](#summary)
+
+- 5年以上的各種資訊公司或專案的開發和維護經驗。
+- 可獨立或與團隊成員搭配合作。
+- 熟悉 Spring boot 框架
+- 熟悉 Restful API 設計。
+- 熟悉關聯式系統設計。
+- 熟悉 NoSQL 資料庫系統設計。
+- 了解微服務概念。
+- 熟悉 Git & SVN 原理及使用。
+
+---
+
 ## 聯絡方式 - Contact Information
 return [Summary](#summary)
 
@@ -43,29 +57,15 @@ return [Summary](#summary)
 
 ---
 
-## 資格綜述 - Summary of Qualifications
-return [Summary](#summary)
-
-- 5年以上的各種資訊公司或專案的開發和維護經驗。
-- 可獨立或與團隊成員搭配合作。
-- 熟悉 Spring boot 框架
-- 熟悉 Restful API 設計。
-- 熟悉任一關聯式系統設計。
-- 熟悉任一 NoSQL 資料庫系統設計。
-- 了解微服務概念。
-- 熟悉 Git 原理及使用。
-
----
-
 ## Summary
 return [Summary](#summary)
 
 <!-- TOC -->
 
 - [張再富 zack](#%E5%BC%B5%E5%86%8D%E5%AF%8C-zack)
+    - [資格綜述 - Summary of Qualifications](#%E8%B3%87%E6%A0%BC%E7%B6%9C%E8%BF%B0---summary-of-qualifications)
     - [聯絡方式 - Contact Information](#%E8%81%AF%E7%B5%A1%E6%96%B9%E5%BC%8F---contact-information)
     - [個人資訊 - Personal Information](#%E5%80%8B%E4%BA%BA%E8%B3%87%E8%A8%8A---personal-information)
-    - [資格綜述 - Summary of Qualifications](#%E8%B3%87%E6%A0%BC%E7%B6%9C%E8%BF%B0---summary-of-qualifications)
     - [Summary](#summary)
     - [工作經歷 - Work Experience](#%E5%B7%A5%E4%BD%9C%E7%B6%93%E6%AD%B7---work-experience)
         - [緯育股份有限公司，進修，2021/12~2022/04](#%E7%B7%AF%E8%82%B2%E8%82%A1%E4%BB%BD%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8%E9%80%B2%E4%BF%AE202112202204)
