@@ -32,6 +32,7 @@ return [Summary](#summary)
 - 了解 Docker 和 K8s 操作
 
 ---
+<div style="float: none;"><div style="page-break-after: always;"></div></div>
 
 ## 聯絡方式 - Contact Information
 return [Summary](#summary)
@@ -347,7 +348,7 @@ return [Summary](#summary)
   - 使用技術：
     - JAVA、Spring、Docker、OpenAPI、google identity platform
   - 使用工具：
-    - Eclipse, Gradle, Git, DataGrip
+    - Eclipse, Gradle, Git, DataGrip, nginx
 
 
 #### 專案名稱：智慧醫療 業務中台 (2020/04 ~ 2021/10 共7個月)
@@ -446,7 +447,7 @@ return [Summary](#summary)
   - 專案系統環境：
     - Linux,AIX,informix
   - 使用技術：
-    - java,,spring,hibernate,jpa,junit,shell Script
+    - java,spring,hibernate,jpa,junit,shell Script
   - 使用工具：
     - eclipse,maven,subversion,dbvisualizer,filezilla
 
@@ -473,11 +474,11 @@ return [Summary](#summary)
   - 工作內容：
     - 網站及後台的開發及維護
   - 專案系統環境：
-    - Linux,AIX,informix
+    - Linux, AIX, informix
   - 使用技術：
-    - java,spring,hibernate,jpa,servlet,jsp,jboss,struts
+    - java, spring, hibernate, jpa, servlet, jsp, jboss, struts
   - 使用工具：
-    - eclipse,maven,subversion,dbvisualizer,filezilla
+    - eclipse, maven, subversion, dbvisualizer, filezilla, Quartz
 
 
 #### 專案名稱：帳務系統持續性整合 (2016/10 ~ 2018/08 共22個月)
@@ -568,35 +569,52 @@ return [Summary](#summary)
 ### 大同大學 - 經歷
 return [Summary](#summary)
 
-    本人畢業於大同大學資訊工程系，系內的教學目標以「電腦基礎理論」與「應用技術」為主軸，並且著重「獨立思考」的研究能力，目標是成為資訊業核心技術人才。在學期間參加許多次大學程式能力檢定(CPE)，除了課堂知識，希望能讓新資訊與社會同步接軌，因應未來職場的需要。
-
-    大學畢業專題內容是演算法平行化，方法大致上是先將原本以循序執行的演算法做分析，將可同時運算的部份取出，透過CUDA技術利用GPU同時出理多重任務。
+    本人畢業於大同大學資訊工程系，系內的教學目標以「電腦基礎理論」與「應用技術」為主軸，並且著重「獨立思考」的研究能力，目標是成為資訊業核心技術人才。在學期間參加許多次大學程式能力檢定(Collegiate Programming Examination，CPE)，除了課堂知識，希望能讓新資訊與社會同步接軌，因應未來職場的需要。
+ 
+    大學畢業專題內容是演算法平行化，方法大致上是先將原本以循序執行的演算法做分析，將可同時運算的部份取出，透過 NVIDIA 所推出的統一計算架構(Compute Unified Device Architecture，CUDA)技術利用繪圖處理單元(Graphics Processing Unit，GPU)同時出理多重任務。
 
 ### 中華電信研究院 - 經歷
 return [Summary](#summary)
 
     畢業後於中華電信研究院工作，協助開發帳務系統，過程中熟悉了一些開發框架或技術，例如:spring、maven、junit、svn等，工作內容主要是根據分析文件開發出相對應的作業程式，有時會幫忙開發維護工具。
 
+    帳務系統出帳作業的部份，主要是跟據分析文件開發出對應的出帳作業，JAVA 使用的 framework 是 spring，透過控制反轉 (Inversion of Control，IoC) 的機制做依賴注入(Dependency Injection，DI)，透過aop的機制做執行時間的記錄。
+
+    軟體架構分成 coordinator、service 和 dao 三層，coordinator 層是程式接口，做跨元件的流程與資訊串聯，service 層是業務邏輯，分成component、module 和 parts，component 已定義的元件功能，module 可組合成元件功能的模組，parts 資料結構與資料處理邏輯，dao 層是負責資料存取，用到的 orm 技術是 Hibernate，會透過jpa去做資料的存取，一部份是直接用 SQL 透過 jdbc 修改資料，交易處理則是用 spring 的 JTA，主要是在發生exception 可以將資料 rollback。
+
+    出帳作業抽產檔模組的部份，會跟據設定檔將資料以指定的格式輸出成檔案，設定檔會有 thread數、格式檔路徑、輸出路徑、資料取得邏輯、排序規則、排版類型、分格符號、額外處理設定，主要流程分成:取資料->額外處理->排版->寫檔，thread 數大於 1 時，會鎖定每個流程只會有一個 thread 在執行，thread 最多可以有 4 個在執行。
+
+    帳務排程系統，是用 Quartz 在指定的時間去執行出帳作業，可以設定每個作業相對執行關係，這個部份我主要是負責維護。
+
+    帳務系統持續性整合的部份，是透過 Jenkins 和他的插件，在 building 失敗時發出 mail 通知，我負責的部分是 Jenkins 上的插件設定，有 emma 的 coverage、findings、sonarqube，emma 的 coverage 是用來測單元測試的覆蓋率，findings 是用來檢查隱藏 BUG 的工具，sonarqube 是程式碼分析平台，會呈現目前為止程式碼品質趨勢。
+
+    軟體開發流程主要是以瀑布模式為主，按照需求、分析、設計、開發、測試、上線、維護的順序，碰到問題時就退回前一步確認，如果過程中有需求變更就會變成螺旋模式，在測試階段回到分析。
+
+    分析文件會登入 trac，程式碼文件用 javadoc，trac 是類似維基百科的工具，分析文件的每次變更都記錄起來，後續維護會比較方便，javadoc 則是將程式碼中的註釋產生獨立的 API 文件，讓維護人員大概知道每個 method 的作用，設計文件有用 UML，有畫過 class diagram 和 sequence diagram。
+
+
 ### 宏碁 - 經歷
 return [Summary](#summary)
 
-    隨後於宏碁工作，協助最高法案開發維護分案系統，過程中了解在需求管理及功能管理的環境還不完整的情況下，必須做開發順序的優先度確認及開發功能前後上的差異才能開始開發。主要是用角色權限加上 Menu 的方式控制，法官、書記、審查等身分執行的功能，處理民事及刑事案件，web 是用 struts，資料庫是直接用SQL透過jdbc修改資料，版本控制是用svn。
+    隨後於宏碁工作，協助最高法案開發維護分案系統，過程中了解在需求管理及功能管理的環境還不完整的情況下，必須做開發順序的優先度確認及開發功能前後上的差異才能開始開發。主要是用角色權限加上 Menu 的方式控制，法官、書記、審查等身分執行的功能，處理民事及刑事案件，web 是用 struts，資料庫是直接用SQL透過jdbc修改資料，版本控制是用svn，開發管理是用 BugTracker。
 
 ### 中國人壽 - 經歷
 return [Summary](#summary)
 
-    之後於中國人壽工作，協助開發線上投保電商前後台，電商前台是提供使用者網路投保及相關服務，電商後台是給內部人員代理使用者操作或是資料維護，過程中了解他們系統與系統之間，主要是服務導向架構(Service-Oriented Architecture，SOA)，用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式依據需求去轉換和傳遞，送出指定的資料格式，或是取得其他系統回覆的結果，網站優化有用 ehcache 把記憶體和磁碟儲存當作快取。
+    之後於中國人壽工作，協助開發線上投保電商前後台，電商前台是提供使用者網路投保及相關服務，電商後台是給內部人員代理使用者操作或是資料維護。
+
+    過程中了解他們系統與系統之間，主要是服務導向架構(Service-Oriented Architecture，SOA)，用企業服務匯流排(Enterprise Service Bus，ESB)以協定好的JSON格式依據需求去轉換和傳遞，送出指定的資料格式，或是取得其他系統回覆的結果，網站優化有用 ehcache 把記憶體和磁碟儲存當作快取。
 
     軟體架構分成 actionBean、service 和 dao 三層，actionBean 是業務邏輯層，處理前端帶進來的參數；service 服務層，用來處理特定的邏輯；dao 層是負責資料存取，直接用 SQL 透過 mybatis 取得資料，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
 
 ### 國泰金控 - 經歷
 return [Summary](#summary)
 
-    之後於國泰金控工作，專案管理方式是用敏捷式(Scrum)，微服務(Microservices)架構，領域驅動開發（Domain Drive Design，DDD），協助開發兩個專案；
+    之後於國泰金控工作，專案管理方式是用敏捷式(Scrum)，微服務(Microservices)架構，領域驅動開發(Domain Drive Design，DDD)，協助開發兩個專案。
  
-    其中一個是智慧醫療業務中台系統，主要是提供RESTful API給國壽地端呼叫，並用AWS cognito服務以JWT(JSON Web Token)做身分驗證，將篩選過的資料轉送至數據中心以方便資料分析及應用；
+    其中一個是智慧醫療業務中台系統，主要是利用問券的方式調查會員健康資訊後給予建議，提供RESTful API給地端呼叫，並用AWS cognito服務以JWT(JSON Web Token)做身分驗證，將轉換過的資料轉送至數據中心以方便資料分析及應用，同時用到 PostgreSQL 和 MongoDB 兩種資料庫儲存不同結構的資料，PostgreSQL存會員相關資料，MongoDB存問卷相關資料。
  
-    另一個是多租戶(Multi-tenancy)架構的投資平台，是Serverless架構，主要是用到Google身分平台(Google Identity Platform，GIP)管理及驗證身分，租戶的客戶資料是以每個租戶一個獨立資料庫儲存，並以Hibernate中配置多租戶方式使用。
+    另一個是多租戶(Multi-tenancy)架構的投資平台，是Serverless架構，主要是用到Google身分平台(Google Identity Platform，GIP)管理及驗證身分，租戶的客戶資料是以每個租戶一個獨立資料庫儲存，並以Hibernate中配置多租戶方式使用，服務架構分成 Gateway-service 和 Component-service 兩層，外部請求統一由 Nginx 導進 Gateway-service，Gateway-service 會再根據條件呼叫 Component-service。
 
 ### 緯育TibaMe - 經歷
 return [Summary](#summary)
@@ -607,7 +625,8 @@ return [Summary](#summary)
     系統: LINUX環境建置與指令操作、權限管理、Shell Script、資訊安全
     虛擬化: VMware VSphere, ESXI, VCenter, VMotion, HA/FT
     Devops: Git, Docker, k8s, Ansible, CI/CD
-    雲端: AWS 雲端服務技術, 環境配置, 資源監控
+    雲端: AWS/GCP 雲端服務, 環境配置, 資源監控
+
 
 
 
@@ -620,7 +639,7 @@ return [Summary](#summary)
 ### 附註
 return [Summary](#summary)
 
-    P.S. 以上都是結束後依靠回憶寫出來的，對我自己過去的復盤和紀錄，盡量列出比較主要的部份，僅供參考。
+    P.S. 以上都是結束後依靠印象寫出來的，對我自己過去的復盤和紀錄，盡量列出比較主要的部份，僅供參考。
 
 ---
 
