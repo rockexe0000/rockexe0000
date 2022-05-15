@@ -57,6 +57,7 @@ return [Summary](#summary)
     > <img src="assets/fig/Github-qrcode.svg" width="90px">
 
 ---
+<div style="float: none;"><div style="page-break-after: always;"></div></div>
 
 ## Summary
 return [Summary](#summary)
@@ -304,6 +305,9 @@ return [Summary](#summary)
     - TCP/IP
   - 使用工具：
     - VMware vSphere Client
+  - 相關連結
+    - <https://cfc104vmware.netlify.app/>
+      > <img src="assets/fig/VMware_vSphere.svg" width="90px">
 <img src="assets/fig/private-cloud-Architecture.png">
 <img src="assets/fig/private-cloud.png">
 
@@ -581,7 +585,9 @@ return [Summary](#summary)
 ### 中國人壽 - 經歷
 return [Summary](#summary)
 
-    之後於中國人壽工作，協助開發線上投保電商前後台，過程中了解他們系統與系統之間，主要是用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式取得，再依據需求去轉換和傳遞，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
+    之後於中國人壽工作，協助開發線上投保電商前後台，電商前台是提供使用者網路投保及相關服務，電商後台是給內部人員代理使用者操作或是資料維護，過程中了解他們系統與系統之間，主要是服務導向架構(Service-Oriented Architecture，SOA)，用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式依據需求去轉換和傳遞，送出指定的資料格式，或是取得其他系統回覆的結果，網站優化有用 ehcache 把記憶體和磁碟儲存當作快取。
+
+    軟體架構分成 actionBean、service 和 dao 三層，actionBean 是業務邏輯層，處理前端帶進來的參數；service 服務層，用來處理特定的邏輯；dao 層是負責資料存取，直接用 SQL 透過 mybatis 取得資料，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
 
 ### 國泰金控 - 經歷
 return [Summary](#summary)
