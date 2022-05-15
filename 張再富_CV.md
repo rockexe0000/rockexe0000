@@ -29,6 +29,7 @@ return [Summary](#summary)
 - 熟悉 NoSQL 資料庫系統設計。
 - 了解微服務概念。
 - 熟悉 Git & SVN 原理及使用。
+- 了解 Docker 和 K8s 操作
 
 ---
 
@@ -115,6 +116,7 @@ return [Summary](#summary)
         - [國泰金控 - 經歷](#%E5%9C%8B%E6%B3%B0%E9%87%91%E6%8E%A7---%E7%B6%93%E6%AD%B7)
         - [緯育TibaMe - 經歷](#%E7%B7%AF%E8%82%B2tibame---%E7%B6%93%E6%AD%B7)
         - [結尾](#%E7%B5%90%E5%B0%BE)
+        - [附註](#%E9%99%84%E8%A8%BB)
 
 <!-- /TOC -->
 
@@ -574,12 +576,12 @@ return [Summary](#summary)
 ### 宏碁 - 經歷
 return [Summary](#summary)
 
-    隨後於宏碁工作，協助最高法案開發維護分案系統，過程中了解在需求管理及功能管理的環境還不完整的情況下，必須做開發順序的優先度確認及開發功能前後上的差異才能開始開發。
+    隨後於宏碁工作，協助最高法案開發維護分案系統，過程中了解在需求管理及功能管理的環境還不完整的情況下，必須做開發順序的優先度確認及開發功能前後上的差異才能開始開發。主要是用角色權限加上 Menu 的方式控制，法官、書記、審查等身分執行的功能，處理民事及刑事案件，web 是用 struts，資料庫是直接用SQL透過jdbc修改資料，版本控制是用svn。
 
 ### 中國人壽 - 經歷
 return [Summary](#summary)
 
-    之後於中國人壽工作，協助開發線上投保電商前後台，過程中了解他們系統與系統之間，主要是用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式取得，再依據需求去處理，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
+    之後於中國人壽工作，協助開發線上投保電商前後台，過程中了解他們系統與系統之間，主要是用企業服務匯流排（Enterprise Service Bus，ESB）以協定好的JSON格式取得，再依據需求去轉換和傳遞，專案建構是用gradle，web是用stripes，framework是用spring，orm是用mybatis。
 
 ### 國泰金控 - 經歷
 return [Summary](#summary)
@@ -609,7 +611,10 @@ return [Summary](#summary)
     個性隨和、友善，希望把事情做到完美，不斷的學習並且要求自己要做到最好，不懂的事務會主動詢問學習，期待不斷精進自己的專業知識，努力學習做好每一件事情，希望能夠獲得貴公司的面試機會。
 
 
+### 附註
+return [Summary](#summary)
 
+    P.S. 以上都是結束後依靠回憶寫出來的，僅供參考。
 
 ---
 
