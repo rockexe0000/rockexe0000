@@ -34,7 +34,7 @@ return [Summary](#summary)
 - 有基本 Html、JavaScript 能力。
 - 了解 Git & SVN 原理及使用。
 - 了解 Docker 和 K8s 操作。
-- 了解 Google Cloud / AWS 公有雲架構。
+- 了解 AWS / Google Cloud 公有雲架構。
 
 ---
 <div style="float: none;"><div style="page-break-after: always;"></div></div>
