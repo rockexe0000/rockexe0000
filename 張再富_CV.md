@@ -22,14 +22,19 @@ icon: https://www.svgrepo.com/
 return [Summary](#summary)
 
 - 5年以上的各種資訊公司或專案的開發和維護經驗。
+- 熟悉物件導向、設計模式、應用程式架構開發…等。
+- 遵循軟體工程規範: 單元測試、版本控管、整合測試…等。
 - 可獨立或與團隊成員搭配合作。
+- 有過 Agile / Scrum開發經驗
 - 熟悉 Spring boot 框架
 - 熟悉 Restful API 設計。
-- 熟悉關聯式系統設計。
+- 熟悉 RDBMS 關聯式系統設計。
 - 熟悉 NoSQL 資料庫系統設計。
-- 了解微服務概念。
-- 熟悉 Git & SVN 原理及使用。
-- 了解 Docker 和 K8s 操作
+- 了解 Microservices 微服務概念。
+- 有基本 Html、JavaScript 能力。
+- 了解 Git & SVN 原理及使用。
+- 了解 Docker 和 K8s 操作。
+- 了解 Google Cloud / AWS 公有雲架構。
 
 ---
 <div style="float: none;"><div style="page-break-after: always;"></div></div>
