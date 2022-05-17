@@ -583,7 +583,7 @@ return [Summary](#summary)
 
     畢業後於中華電信研究院工作，協助開發帳務系統，過程中熟悉了一些開發框架或技術，例如:spring、maven、junit、svn等，工作內容主要是根據分析文件開發出相對應的作業程式，有時會幫忙開發維護工具。
 
-    帳務系統出帳作業的部份，主要是跟據分析文件開發出對應的出帳作業，JAVA 使用的 framework 是 spring，透過控制反轉 (Inversion of Control，IoC) 的機制做依賴注入(Dependency Injection，DI)，透過aop的機制做執行時間的記錄。
+    帳務系統出帳作業的部份，主要是跟據分析文件開發出對應的出帳作業，JAVA 使用的 framework 是 spring，透過控制反轉 (Inversion of Control，IoC) 的機制做依賴注入(Dependency Injection，DI)，透過剖面導向程式設計(Aspect-Oriented Programming，AOP)的方式做執行時間的記錄。
 
     程式架構分成 coordinator、service 和 dao 三層，coordinator 層是程式接口，做跨元件的流程與資訊串聯，service 層是業務邏輯，分成component、module 和 parts，component 已定義的元件功能，module 可組合成元件功能的模組，parts 資料結構與資料處理邏輯，dao 層是負責資料存取，用到的 orm 技術是 Hibernate，會透過jpa去做資料的存取，一部份是直接用 SQL 透過 jdbc 修改資料，交易處理則是用 spring 的 JTA，主要是在發生exception 可以將資料 rollback。
 
