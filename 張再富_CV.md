@@ -56,12 +56,11 @@ return [Summary](#summary)
   - <img src="assets/icons/direction-sign-svgrepo-com.svg" width="18px">求職意向：DEVOPS工程師、JAVA工程師
   - <img src="assets/icons/time-svgrepo-com.svg" width="18px">工作經驗：5 年
   - <img src="assets/icons/map-marker-alt-svgrepo-com.svg" width="18px">希望地點：台北市
-  - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k
   - <img src="assets/icons/question-svgrepo-com.svg" width="18px">關於未來工作的提問: <https://github.com/rockexe0000/rockexe0000/blob/main/reverse-interview.md>
     > <img src="assets/fig/reverse-interview.svg" width="90px">
   - <img src="assets/icons/github-brands.svg" width="18px"> Github: <https://github.com/rockexe0000>
     > <img src="assets/fig/Github-qrcode.svg" width="90px">
-
+ <!-- - <img src="assets/icons/coin-svgrepo-com.svg" width="18px">期望薪資：100k-->
 ---
 <div style="float: none;"><div style="page-break-after: always;"></div></div>
 
