@@ -34,7 +34,7 @@ return [Summary](#summary)
 - 有基本 Html、JavaScript 能力。
 - 了解 Git & SVN 原理及使用。
 - 了解 Docker 和 K8s 操作。
-- 了解 AWS / Google Cloud 公有雲架構。
+- 了解 AWS / GCP 公有雲架構。
 
 ---
 <div style="float: none;"><div style="page-break-after: always;"></div></div>
@@ -125,7 +125,6 @@ return [Summary](#summary)
         - [附註](#%E9%99%84%E8%A8%BB)
 
 <!-- /TOC -->
-
 
 
 ---
@@ -514,6 +513,7 @@ return [Summary](#summary)
 - Spring ★★★★☆
 
 ### Front-end & Frameworks
+> 可以透過瀏覽器的開發者工具，對前端的功能追蹤或調整
 
 - JavaScript ★★☆☆☆
 - jquery ★★☆☆☆
@@ -522,11 +522,14 @@ return [Summary](#summary)
 - css ★★☆☆☆
 
 ### Databases
+> 使用上主要是以後端程式操作資料庫為主，通常是用物件關聯對映(Object Relational Mapping，ORM)或是客製化SQL存取
+> SQL優化的部分通常是回應時間過慢才會去調整，方法大致上有 table partitioning、sql explain、temp table、SQL分割或重構等
 
 - PostgreSQL★★☆☆☆
 - mysql ★★☆☆☆
 - oracle ★★☆☆☆
 - informix ★★☆☆☆
+- mongoDB ★☆☆☆☆
 
 ### Servers
 
@@ -540,6 +543,7 @@ return [Summary](#summary)
 
 ### Build Tool
 
+- maven ★★★☆☆
 - gradle ★★★☆☆
 - docker ★★★☆☆
 
