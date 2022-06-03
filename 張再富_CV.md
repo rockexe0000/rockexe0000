@@ -508,6 +508,7 @@ return [Summary](#summary)
 (1.有自行學習, 2.非主要或不常用, 3.有實務經驗, 4.有多次實務經驗, 5.精通)
 
 ### Back-end & Frameworks
+> 主要是用JAVA開發Web後端，也有開發批次或排程等其它部分，Spring框架有用到控制反轉 (Inversion of Control，IoC) 的機制做依賴注入(Dependency Injection，DI)，透過剖面導向程式設計(Aspect-Oriented Programming，AOP)的方式做執行時間的記錄
 
 - Java ★★★★☆
 - Spring ★★★★☆
@@ -522,7 +523,7 @@ return [Summary](#summary)
 - css ★★☆☆☆
 
 ### Databases
-> 使用上主要是以後端程式操作資料庫為主，通常是用物件關聯對映(Object Relational Mapping，ORM)或是客製化SQL存取
+> 使用上主要是以後端程式操作資料庫為主，通常是用物件關聯對映(Object Relational Mapping，ORM)或是客製化SQL存取<br>
 > SQL優化的部分通常是回應時間過慢才會去調整，方法大致上有 table partitioning、sql explain、temp table、SQL分割或重構等
 
 - PostgreSQL★★☆☆☆
@@ -537,21 +538,25 @@ return [Summary](#summary)
 - tomcat ★★☆☆☆
 
 ### Operating System
+> 我通常是把指令包成shell去執行
 
 - windows ★★★☆☆
 - linux ★★★☆☆
 
 ### Build Tool
+> 通常專案用maven/gradle建構和管理第三方程式庫依賴，docker把專案容器化
 
 - maven ★★★☆☆
 - gradle ★★★☆☆
 - docker ★★★☆☆
 
 ### Continuous Integration
+> jenkins用在開發區程式送出後，自動建置並執行單元測試，建置失敗或單元測試有錯會發送通知
 
 - jenkins ★☆☆☆☆
 
 ### Version Control System
+> 主要有 master 和 release 這兩條分支，master是目前開發的分支，release是準備要交付的分支
 
 - git ★★★☆☆
 - SVN ★★★☆☆
