@@ -104,14 +104,6 @@ return [Summary](#summary)
             - [專案名稱：帳務排程系統維護 2016/10 ~ 2018/08 共22個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E6%8E%92%E7%A8%8B%E7%B3%BB%E7%B5%B1%E7%B6%AD%E8%AD%B7-201610--201808-%E5%85%B122%E5%80%8B%E6%9C%88)
             - [專案名稱：帳務系統持續性整合 2016/10 ~ 2018/08 共22個月](#%E5%B0%88%E6%A1%88%E5%90%8D%E7%A8%B1%E5%B8%B3%E5%8B%99%E7%B3%BB%E7%B5%B1%E6%8C%81%E7%BA%8C%E6%80%A7%E6%95%B4%E5%90%88-201610--201808-%E5%85%B122%E5%80%8B%E6%9C%88)
     - [技能清單 - Skills](#%E6%8A%80%E8%83%BD%E6%B8%85%E5%96%AE---skills)
-        - [Back-end & Frameworks](#back-end--frameworks)
-        - [Front-end & Frameworks](#front-end--frameworks)
-        - [Databases](#databases)
-        - [Servers](#servers)
-        - [Operating System](#operating-system)
-        - [Build Tool](#build-tool)
-        - [Continuous Integration](#continuous-integration)
-        - [Version Control System](#version-control-system)
     - [自傳 - Autobiography](#%E8%87%AA%E5%82%B3---autobiography)
         - [開頭](#%E9%96%8B%E9%A0%AD)
         - [家庭背景](#%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF)
@@ -508,13 +500,13 @@ return [Summary](#summary)
 
 (1.有自行學習, 2.非主要或不常用, 3.有實務經驗, 4.有多次實務經驗, 5.精通)
 
-### Back-end & Frameworks
+**Back-end & Frameworks**
 > 主要是用JAVA開發Web後端，也有開發批次或排程等其它部分，Spring框架有用到控制反轉 (Inversion of Control，IoC) 的機制做依賴注入(Dependency Injection，DI)，透過剖面導向程式設計(Aspect-Oriented Programming，AOP)的方式做執行時間的記錄
 
 - Java ★★★★☆
 - Spring ★★★★☆
 
-### Front-end & Frameworks
+**Front-end & Frameworks**
 > 可以透過瀏覽器的開發者工具，對前端的功能追蹤或調整
 
 - JavaScript ★★☆☆☆
@@ -523,7 +515,7 @@ return [Summary](#summary)
 - html ★★☆☆☆
 - css ★★☆☆☆
 
-### Databases
+**Databases**
 > 使用上主要是以後端程式操作資料庫為主，通常是用物件關聯對映(Object Relational Mapping，ORM)或是客製化SQL存取<br>
 > SQL優化的部分通常是回應時間過慢才會去調整，方法大致上有 table partitioning、sql explain、temp table、SQL分割或重構等
 
@@ -533,30 +525,30 @@ return [Summary](#summary)
 - informix ★★☆☆☆
 - mongoDB ★☆☆☆☆
 
-### Servers
+**Servers**
 
 - nginx ★★☆☆☆
 - tomcat ★★☆☆☆
 
-### Operating System
+**Operating System**
 > 我通常是把指令包成shell去執行
 
 - windows ★★★☆☆
 - linux ★★★☆☆
 
-### Build Tool
+**Build Tool**
 > 通常專案用maven/gradle建構和管理第三方程式庫依賴，docker把專案容器化
 
 - maven ★★★☆☆
 - gradle ★★★☆☆
 - docker ★★★☆☆
 
-### Continuous Integration
+**Continuous Integration**
 > jenkins用在開發區程式送出後，自動建置並執行單元測試，建置失敗或單元測試有錯會發送通知
 
 - jenkins ★☆☆☆☆
 
-### Version Control System
+**Version Control System**
 > 主要有 master 和 release 這兩條分支，master是目前開發的分支，release是準備要交付的分支
 
 - git ★★★☆☆
