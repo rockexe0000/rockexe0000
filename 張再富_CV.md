@@ -129,9 +129,10 @@ return [Summary](#summary)
 <img src="assets/icons/briefcase-svgrepo-com.svg" width="24px"> 工作經歷-Work Experience
 
 ### 緯育股份有限公司，進修，2021/12~2022/04
+<!--
 <img src="assets/fig/tibame-studentcard.jpg"  width="180px">
 <img src="assets/fig/tibame-CertificateOfMerit.jpg"  width="180px">
-<img src="assets/fig/tibame-diploma.jpg"  width="180px">
+<img src="assets/fig/tibame-diploma.jpg"  width="180px">-->
 
 ### 云智資訊股份有限公司，JAVA工程師，2021/04~2021/10
 
@@ -147,7 +148,7 @@ return [Summary](#summary)
 <img src="assets/icons/graduation-cap-svgrepo-com.svg" width="24px"> 最高學歷 – Education
 
 ### 大同大學(Tatung University)，資訊工程學系，2012/09~2016/09
-<img src="assets/fig/ttu-diploma.jpg"  width="180px">
+<!--<img src="assets/fig/ttu-diploma.jpg"  width="180px">-->
 
 ---
 

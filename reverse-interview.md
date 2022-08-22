@@ -6,7 +6,44 @@
 -->
 
 
+## Summary
+return [Summary](#summary)
+
+<!-- TOC -->
+
+- [關於未來工作的提問](#%E9%97%9C%E6%96%BC%E6%9C%AA%E4%BE%86%E5%B7%A5%E4%BD%9C%E7%9A%84%E6%8F%90%E5%95%8F)
+    - [Summary](#summary)
+    - [重要](#%E9%87%8D%E8%A6%81)
+    - [關於基本工作資訊](#%E9%97%9C%E6%96%BC%E5%9F%BA%E6%9C%AC%E5%B7%A5%E4%BD%9C%E8%B3%87%E8%A8%8A)
+    - [關於職責](#%E9%97%9C%E6%96%BC%E8%81%B7%E8%B2%AC)
+    - [關於技術](#%E9%97%9C%E6%96%BC%E6%8A%80%E8%A1%93)
+    - [關於團隊](#%E9%97%9C%E6%96%BC%E5%9C%98%E9%9A%8A)
+    - [關於公司](#%E9%97%9C%E6%96%BC%E5%85%AC%E5%8F%B8)
+
+<!-- /TOC -->
+
+---
+
+## 重要
+return [Summary](#summary)
+
+- 目前團隊人員的配置?團隊人員間的協作方式?
+- 如何將現有系統讓新進人員了解?
+- 公司的軟體架構?
+
+- 如何做團隊內部的溝通交流/共享知識？協作工具?溝通工具?
+  - 協作工具：Redmine, VSTS, JIRE, 文件管理規範...
+  - 溝通工具：Line,Slack, Email, Calendar...
+
+- 程式碼/軟體有文件嗎？需求文件?設計文件?開發/維護文件?使用手冊?
+  - high-level view, topology diagram, UML...
+
+
+
+
+
 ## 關於基本工作資訊
+return [Summary](#summary)
 
 - 能力需求
 - 職務特質
@@ -20,6 +57,7 @@
 - 徵才期限
 
 ## 關於職責
+return [Summary](#summary)
 
 - 工作內容有哪些？
 
@@ -46,8 +84,9 @@
 
 
 ## 關於技術
+return [Summary](#summary)
 
-- 公司的軟體環境架構?
+- 公司的軟體架構?
 
 - 有環境隔離嗎?
   - [ ] DEV Development 開發環境
@@ -73,7 +112,7 @@
 
 
 ## 關於團隊
-
+return [Summary](#summary)
 
 - 目前團隊人員的配置?團隊人員間的協作方式?
 
@@ -103,6 +142,7 @@
 
 
 ## 關於公司
+return [Summary](#summary)
 
 - 在資訊的領域中，公司會將自身定位為下面哪些?
   - [ ] 原廠
