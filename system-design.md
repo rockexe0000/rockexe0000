@@ -17,6 +17,8 @@ return [Summary](#summary)
   - [內容傳遞網路（Content Delivery Network, CDN）](#內容傳遞網路content-delivery-network-cdn)
   - [訊息佇列（Message Queue）](#訊息佇列message-queue)
   - [DDD 架構](#ddd-架構)
+  - [JWT](#jwt)
+  - [SNAKE原则](#snake原则)
 
 <!-- /TOC -->
 
@@ -98,22 +100,40 @@ Z軸: 根據客戶或地理進行Sharding分區
 
 <img src="assets/fig/20111997ZUPRgzvmKT.png">
 
-User: 
-  - Interface (Presentation)	負責向使用者顯示資訊和解釋使用者的指令。使用者可能是人也有可能是另一個系統。
+介面層Interface:
+  - 負責向使用者顯示資訊和解釋使用者的指令。使用者可能是人也有可能是另一個系統。
 
-Application:	
+應用層Application:	
   - 定義軟體要完成的任務(使用案例)，並指揮 Domain 來實現業務邏輯的計算。
 
-Domain:	
+領域層Domain:	
   - 負責保管業務概念、業務狀態以及業務規則。本層式軟體的核心。
 
-Infrastructure:	
+基礎層Infrastructure:	
   - 為上面個層提供技術能力：為 Application 傳遞訊息、為 Domain 提供持久化機制、為 User Interface 處理畫面等等。
 
 
 
+## JWT
+
+<img src="assets/fig/spring-boot-jwt-workflow.jpg">
 
 
+
+## SNAKE原则
+
+
+SNAKE原则（Scenario, Necessary, Application, Kilobit, Evolve）
+
+Scenario（場景）：用例/介面
+
+Necessary（限制）：檢視需求/假設
+
+Application（應用）：服務/演算法
+
+Kilobit（資料）
+
+Evolve（進化）
 
 
 
