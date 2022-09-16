@@ -19,7 +19,10 @@ return [Summary](#summary)
   - [DDD 架構](#ddd-架構)
   - [JWT](#jwt)
   - [SNAKE原则](#snake原则)
+  - [REST API Design](#rest-api-design)
+  - [Design Patterns](#design-patterns)
 
+<!-- /TOC -->
 <!-- /TOC -->
 
 ---
@@ -29,6 +32,7 @@ return [Summary](#summary)
 
 
 ## Scale cube
+return [Summary](#summary)
 
 <img src="assets/fig/scale-cube.png">
 
@@ -46,20 +50,24 @@ Z軸: 根據客戶或地理進行Sharding分區
 
 
 ## 基本架構
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_01.drawio.svg">
 
 ## 前後端分離架構
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_02.drawio.svg">
 
 
 ## 服務分離架構
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_03.drawio.svg">
 
 
 ## 負載平衡
+return [Summary](#summary)
 
 有狀態（stateful）-> 無狀態（stateless）
 
@@ -69,22 +77,26 @@ Z軸: 根據客戶或地理進行Sharding分區
 
 
 ## 資料庫複寫(Database Replication)與讀寫分離
+return [Summary](#summary)
 
 水平擴展（Horizontal Scaling）
 
 <img src="assets/fig/system-design_05.drawio.svg">
 
 ## 快取（Cache）
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_06.drawio.svg">
 
 
 ## 內容傳遞網路（Content Delivery Network, CDN）
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_07.drawio.svg">
 
 
 ## 訊息佇列（Message Queue）
+return [Summary](#summary)
 
 <img src="assets/fig/system-design_08.drawio.svg">
 
@@ -97,6 +109,7 @@ Z軸: 根據客戶或地理進行Sharding分區
 -->
 
 ## DDD 架構
+return [Summary](#summary)
 
 <img src="assets/fig/20111997ZUPRgzvmKT.png">
 
@@ -115,13 +128,14 @@ Z軸: 根據客戶或地理進行Sharding分區
 
 
 ## JWT
+return [Summary](#summary)
 
 <img src="assets/fig/spring-boot-jwt-workflow.jpg">
 
 
 
 ## SNAKE原则
-
+return [Summary](#summary)
 
 SNAKE原则（Scenario, Necessary, Application, Kilobit, Evolve）
 
@@ -134,6 +148,39 @@ Application（應用）：服務/演算法
 Kilobit（資料）
 
 Evolve（進化）
+
+
+## REST API Design
+return [Summary](#summary)
+
+<img src="assets/fig/rest-api-design.jpg">
+
+聊聊 Spring HATEOAS
+<https://openhome.cc/Gossip/Spring/HATEOAS.html>
+
+
+## Design Patterns
+return [Summary](#summary)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
