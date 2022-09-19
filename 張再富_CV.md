@@ -343,7 +343,7 @@ return [Summary](#summary)
   - 專案系統環境：
     - GCP, PostgreSQL
   - 使用技術：
-    - JAVA、Spring、Docker、OpenAPI、google identity platform
+    - JAVA, Spring, Docker, JWT, OpenAPI, google identity platform, RESTful API, Microservices
   - 使用工具：
     - Eclipse, Gradle, Git, DataGrip, nginx
 
@@ -352,13 +352,13 @@ return [Summary](#summary)
 return [Summary](#summary)
 
   - 專案內容：
-    - 串接數據後台API
+    - 串接數據後台API、問卷API
   - 工作內容：
     - 帳號註冊、資料變更、欄位檢核、查詢提交問卷、會員綁定解除綁定等相關功能的開發
   - 專案系統環境：
     - AWS, PostgreSQL, MongoDB
   - 使用技術：
-    - JAVA、Spring、Docker, RESTful API
+    - JAVA, Spring, Docker, JWT, OpenAPI, RESTful API, Microservices
   - 使用工具：
     - Eclipse, Gradle, Git, DataGrip, aws cognito
 
@@ -375,11 +375,11 @@ return [Summary](#summary)
   - 工作內容：
     - 帳號註冊、資料變更、欄位檢核、線上投保、保費試算、電子保單下載、電文發送、電文接收、表單套印、批次作業等相關功能的開發及維護
   - 專案系統環境：
-    - Linux,Windows,oracle
+    - Linux、Windows、oracle
   - 使用技術：
-    - JAVA、jQuery、JavaScript、CSS3、JSP/Servlet、HTML、Spring、stripes、mybatis、AJAX、ESB、bootstrap、jasper、ireport、quartz
+    - JAVA, jQuery, JavaScript, CSS3, JSP/Servlet, HTML, Spring, stripes, mybatis, AJAX, ESB, bootstrap, jasper, ireport, quartz
   - 使用工具：
-    - eclipse,gradle,subversion,sql developer
+    - eclipse, gradle, subversion, sql developer
 
 
 #### 專案名稱：數位行銷部-電子商務後台 (2020/01 ~ 2021/01 共13個月)
@@ -390,11 +390,11 @@ return [Summary](#summary)
   - 工作內容：
     - 帳號註冊、資料變更、欄位檢核、監控報表查詢等相關功能的開發及維護
   - 專案系統環境：
-    - Linux,Windows,oracle
+    - Linux, Windows, oracle
   - 使用技術：
-    - JAVA、jQuery、JavaScript、CSS3、JSP/Servlet、HTML、Spring、stripes、mybatis、AJAX、ESB、bootstrap
+    - JAVA, jQuery, JavaScript, CSS3, JSP/Servlet, HTML, Spring, stripes, mybatis, AJAX, ESB, bootstrap
   - 使用工具：
-    - eclipse,gradle,subversion,sql developer
+    - eclipse, gradle, subversion, sql developer
 
 ---
 
@@ -409,11 +409,11 @@ return [Summary](#summary)
   - 工作內容：
     - 分案、卷面、例稿、報表、警示、繳費、卷庫...等系統開發及維護
   - 專案系統環境：
-    - Linux,Windows,oracle
+    - Linux, Windows, oracle
   - 使用技術：
-    - JAVA、jQuery、JavaScript、CSS3、JSP/Servlet、HTML
+    - JAVA, jQuery, JavaScript, CSS3, JSP/Servlet, HTML
   - 使用工具：
-    - eclipse,subversion
+    - eclipse, subversion
 
 #### 專案名稱：最高法院轉檔系統維護 (2018/11 ~ 2019/12 共13個月)
 return [Summary](#summary)
@@ -423,11 +423,11 @@ return [Summary](#summary)
 - 工作內容：
   - 打包最高資料給其他單位或接收其他單位資料的批次系統開發及維護
 - 專案系統環境：
-  - Windows,oracle
+  - Windows, oracle
 - 使用技術：
   - JAVA
 - 使用工具：
-  - eclipse,subversion
+  - eclipse, subversion
 
 ---
 
@@ -442,11 +442,11 @@ return [Summary](#summary)
   - 工作內容：
     - shell，service層及DAO層，sql效能優化，單元測試，使用手冊
   - 專案系統環境：
-    - Linux,AIX,informix
+    - Linux, AIX, informix
   - 使用技術：
-    - java,spring,hibernate,jpa,junit,shell Script
+    - java, spring, hibernate, jpa, junit, shell Script
   - 使用工具：
-    - eclipse,maven,subversion,dbvisualizer,filezilla
+    - eclipse, maven, subversion, dbvisualizer, filezilla
 
 
 #### 專案名稱：出帳作業抽產檔模組 (2016/10 ~ 2018/08 共22個月)
@@ -457,11 +457,11 @@ return [Summary](#summary)
   - 工作內容：
     - 制定設定檔參數、執行參數、執行流程，多執行緒設計，單元測試，使用手冊
   - 專案系統環境：
-    - Linux,AIX,informix
+    - Linux, AIX, informix
   - 使用技術：
-    - java,,spring,hibernate,jpa,junit
+    - java, spring, hibernate, jpa, junit
   - 使用工具：
-    - eclipse,maven,subversion,dbvisualizer,filezilla
+    - eclipse, maven, subversion, dbvisualizer, filezilla
 
 #### 專案名稱：帳務排程系統維護 (2016/10 ~ 2018/08 共22個月)
 return [Summary](#summary)
@@ -490,7 +490,7 @@ return [Summary](#summary)
   - 使用技術：
     - java
   - 使用工具：
-    - eclipse,maven,subversion,Jenkins,sonarqube
+    - eclipse, maven, subversion, Jenkins, sonarqube
 
 ---
 
@@ -532,7 +532,7 @@ return [Summary](#summary)
 - tomcat ★★☆☆☆
 
 **Operating System**
-> 我通常是把指令包成shell去執行
+> 基本指令系統操作，通常是把指令包成shell去執行
 
 - windows ★★★☆☆
 - linux ★★★☆☆
